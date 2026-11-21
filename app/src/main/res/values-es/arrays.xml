@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="parts_translation">
+        <item>Rendimiento</item>
+        <item>Memoria</item>
+        <item>Personalización</item>
+        <item>Efectos visuales</item>
+        <item>Ajustes avanzados</item>
+        <item>Estado del módulo</item>
+        <item>Acerca de Sunshine Parts</item>
+        <item>Velocidad de procesamiento</item>
+        <item>Carga de la interfaz</item>
+        <item>Límites de CPU</item>
+        <item>Informe del módulo</item>
+        <item>Idioma</item>
+        <item>Idioma de la aplicación</item>
+        <item>Inglés</item>
+        <item>Soporte</item>
+        <item>Atrás</item>
+        <item>Cerrar</item>
+        <item>Cancelar</item>
+        <item>Continuar</item>
+        <item>Aceptar</item>
+        <item>Listo</item>
+        <item>Versión</item>
+        <item>Requisitos</item>
+        <item>Cargando</item>
+        <item>Aplicando cambios…</item>
+        <item>Actualizando ajustes…</item>
+        <item>No disponible</item>
+        <item>No disponible</item>
+        <item>No disponible</item>
+        <item>Conectado</item>
+        <item>Es necesario reiniciar</item>
+        <item>Comprobar conexión</item>
+        <item>Comprueba que el módulo del panel responda</item>
+        <item>Panel conectado</item>
+        <item>Conexión</item>
+        <item>Panel</item>
+        <item>Dispositivo</item>
+        <item>Detalles</item>
+        <item>Software</item>
+        <item>Diagnóstico</item>
+        <item>Ver detalles de integración</item>
+        <item>Cuidados adicionales</item>
+        <item>Comprueba la conexión y los datos de la ROM</item>
+        <item>Ver la actividad del panel y los ajustes de pantalla</item>
+        <item>Versión y requisitos de la aplicación</item>
+        <item>Ayuda y novedades del proyecto</item>
+        <item>Efectos visuales y ajustes avanzados</item>
+        <item>Excelente</item>
+        <item>Bien</item>
+        <item>Caliente</item>
+        <item>Muy caliente</item>
+        <item>Comprobando</item>
+        <item>Comprobando…</item>
+        <item>Esperando</item>
+        <item>Esperando…</item>
+        <item>Esperando datos…</item>
+        <item>Comprobar módulo</item>
+        <item>Comprueba la conexión con SystemUI.</item>
+        <item>La temperatura de la batería aún no está disponible.</item>
+        <item>El teléfono está fresco. No necesita optimización.</item>
+        <item>Tu perfil visual acaba de comprobarse.</item>
+        <item>El teléfono funciona bien. Revisa el perfil visual para mantenerlo ágil.</item>
+        <item>El perfil visual está listo. Deja que el teléfono se enfríe.</item>
+        <item>Un perfil visual más ligero puede ayudar mientras el teléfono se enfría.</item>
+        <item>Optimizar ahora</item>
+        <item>¿Optimizar ahora?</item>
+        <item>Optimizando</item>
+        <item>Revisa el perfil visual y libera aplicaciones en caché solo si falta memoria. Las aplicaciones recientes podrían recargarse.</item>
+        <item>Conexión del módulo</item>
+        <item>Perfil visual</item>
+        <item>Registros de diagnóstico</item>
+        <item>Se completaron todas las comprobaciones</item>
+        <item>Se solicitó limpiar las aplicaciones en caché</item>
+        <item>Hay suficiente memoria disponible</item>
+        <item>Se redujeron los mensajes repetitivos</item>
+        <item>Se conservaron los ajustes de registro</item>
+        <item>No se pudo completar la optimización</item>
+        <item>Necesita atención</item>
+        <item>No comprobado</item>
+        <item>Tus ajustes están listos</item>
+        <item>Desactivado</item>
+        <item>Automático</item>
+        <item>Ligero</item>
+        <item>Muy ligero</item>
+        <item>Activado</item>
+        <item>Desactivado</item>
+        <item>Predeterminado del sistema</item>
+        <item>Predeterminado del dispositivo</item>
+        <item>Aplicado</item>
+        <item>Guardado</item>
+        <item>Carga visual</item>
+        <item>Usa el detalle visual normal. Las correcciones del panel siguen activas.</item>
+        <item>Empieza en Ligero y reduce más detalles cuando la batería se caliente.</item>
+        <item>Prepara cada fondo una vez, con desenfoque y ondas multimedia más ligeros.</item>
+        <item>Usa el desenfoque más ligero y menos puntos en las ondas. El fondo se verá más suave.</item>
+        <item>Guardado. Reinicia para aplicar todas las integraciones.</item>
+        <item>Actividad actual</item>
+        <item>Carga activa</item>
+        <item>Detalle normal</item>
+        <item>Ajuste automático</item>
+        <item>Temperatura de la batería: %.1f °C.</item>
+        <item>La temperatura de la batería no está disponible.</item>
+        <item>Efectos del panel</item>
+        <item>Animaciones del panel</item>
+        <item>Muestra las transiciones originales del panel. Las ondas multimedia siguen moviéndose con ambas opciones.</item>
+        <item>Desenfoque del panel</item>
+        <item>Muestra el fondo desenfocado en los ajustes rápidos y las notificaciones.</item>
+        <item>Desenfoque por GPU</item>
+        <item>Usa la GPU para los fondos preparados del panel en Ligero y Muy ligero.</item>
+        <item>Multimedia</item>
+        <item>Detalle de ondas multimedia</item>
+        <item>Alto</item>
+        <item>Equilibrado</item>
+        <item>Más ajustes</item>
+        <item>Optimizaciones secundarias y mantenimiento</item>
+        <item>Procesamiento</item>
+        <item>Perfil de energía de CPU</item>
+        <item>Estándar</item>
+        <item>Bajo consumo</item>
+        <item>Alta</item>
+        <item>Máxima</item>
+        <item>Gestión de energía</item>
+        <item>Ahorro de energía</item>
+        <item>Limita el consumo mediante el servicio de energía de Android.</item>
+        <item>Batería adaptable</item>
+        <item>Limita el consumo de las aplicaciones que usas menos.</item>
+        <item>Ver los límites actuales de CPU</item>
+        <item>Elige una velocidad de procesamiento</item>
+        <item>Restaura las frecuencias mínimas guardadas para un uso equilibrado.</item>
+        <item>Eleva las frecuencias mínimas al menos al 35% del límite guardado para responder más rápido.</item>
+        <item>Historial de frecuencia de CPU</item>
+        <item>Grupo de CPU</item>
+        <item>Grupo de CPU</item>
+        <item>Eficientes</item>
+        <item>Rendimiento</item>
+        <item>Principal</item>
+        <item>Conectando con los datos de CPU…</item>
+        <item>En vivo · Una lectura por segundo</item>
+        <item>La línea continua muestra la frecuencia informada. La discontinua muestra el máximo permitido. Es normal que la frecuencia baje cuando la CPU está inactiva.</item>
+        <item>Se actualiza cada segundo mientras esta página está abierta. La supervisión se detiene al salir o dejar la aplicación en segundo plano.</item>
+        <item>Frecuencia</item>
+        <item>Máximo permitido</item>
+        <item>Ahora</item>
+        <item>Límite: </item>
+        <item>Hace %d s</item>
+        <item>%1$d%% usado</item>
+        <item>%1$s GB disponibles</item>
+        <item>%1$s GB de memoria total</item>
+        <item>Liberar apps en caché</item>
+        <item>Android administra los servicios activos.</item>
+        <item>¿Liberar aplicaciones en caché?</item>
+        <item>Límites de uso en segundo plano</item>
+        <item>Límite de apps en caché</item>
+        <item>Límite de aplicaciones en caché</item>
+        <item>Límite efectivo: </item>
+        <item>Congelar apps en caché</item>
+        <item>Guardado. Reinicia el dispositivo para aplicar la política del sistema.</item>
+        <item>Las aplicaciones en caché son distintas de los servicios activos. Los límites bajos pueden aumentar las recargas.</item>
+        <item>Optimizaciones secundarias</item>
+        <item>Desenfoque preparado del panel</item>
+        <item>Prepara el fondo del panel antes de necesitarlo.</item>
+        <item>Actualizaciones de ajustes rápidos</item>
+        <item>Agrupa las actualizaciones repetidas de los ajustes rápidos.</item>
+        <item>Distribución de botones</item>
+        <item>Reduce los cálculos repetidos de distribución de botones.</item>
+        <item>Actualizaciones de botones</item>
+        <item>Evita actualizar botones que no han cambiado.</item>
+        <item>Reutilizar distribución del panel</item>
+        <item>Reutiliza los cálculos compatibles de distribución de ajustes rápidos.</item>
+        <item>Mantener listo el contenido del panel</item>
+        <item>Mantén listo el contenido compatible de los ajustes rápidos.</item>
+        <item>Preferir 120 Hz</item>
+        <item>Prefiere 120 Hz cuando esté disponible. El ahorro de energía y los límites térmicos siguen activos.</item>
+        <item>Animaciones de Inicio de One UI</item>
+        <item>Usa el perfil de transición compatible con la pantalla de inicio.</item>
+        <item>Colores claros suaves</item>
+        <item>Usa colores más suaves en las notificaciones. Reinicia SystemUI después de desactivarlo.</item>
+        <item>Reiniciar SystemUI</item>
+        <item>Reinicia la interfaz del sistema.</item>
+        <item>¿Reiniciar SystemUI?</item>
+        <item>La barra de estado desaparece brevemente. Puede aparecer la pantalla de bloqueo.</item>
+        <item>Mantenimiento</item>
+        <item>Restablecer cachés de sombreadores de la interfaz</item>
+        <item>Mueve los archivos de sombreadores reconocidos a una copia de seguridad</item>
+        <item>¿Restablecer cachés de sombreadores?</item>
+        <item>Cachés de sombreadores de la interfaz</item>
+        <item>Restaurar ajustes originales del sistema</item>
+        <item>Restaura los límites de CPU y los primeros ajustes guardados</item>
+        <item>¿Restaurar ajustes originales?</item>
+        <item>Se conservan las opciones del módulo. Los ajustes del sistema pueden necesitar un reinicio.</item>
+        <item>Restaurar ajustes</item>
+        <item>Reducir registros de diagnóstico</item>
+        <item>Reduce los mensajes repetitivos. Los avisos y errores siguen disponibles.</item>
+        <item>Se aplicó la reducción de registros</item>
+        <item>Se restauraron los registros anteriores</item>
+        <item>Exportar archivo de diagnóstico</item>
+        <item>Registra fotogramas y registros durante 15 segundos</item>
+        <item>Grabando: abre los ajustes rápidos ahora</item>
+        <item>Guardado en </item>
+        <item>Renderizador de aplicaciones</item>
+        <item>Skia OpenGL</item>
+        <item>Skia GL</item>
+        <item>Skia Vulkan</item>
+        <item>¿Cambiar el renderizador de aplicaciones?</item>
+        <item>Aplicado hasta el próximo reinicio.</item>
+        <item>Integraciones</item>
+        <item>Actividad del panel</item>
+        <item>Resultados de desenfoque</item>
+        <item>Resultados de desenfoque ligero</item>
+        <item>Rutas rápidas de apertura preparada</item>
+        <item>Actualizaciones ligeras del panel dividido</item>
+        <item>Entregas repetidas de desenfoque evitadas</item>
+        <item>Fondos con desenfoque por GPU</item>
+        <item>Envíos al lienzo de GPU</item>
+        <item>Alternativas por software</item>
+        <item>Actualizaciones de gestos de ajustes rápidos</item>
+        <item>Errores de desenfoque</item>
+        <item>Sesión actual</item>
+        <item>SystemUI conectado</item>
+        <item>Comprueba el estado del módulo</item>
+        <item>Actividad gráfica</item>
+        <item>Desenfoque por GPU: %d envíos</item>
+        <item>Detalle activo</item>
+        <item>Temperatura de la batería</item>
+        <item>Política de pantalla</item>
+        <item>Preferencia del sistema</item>
+        <item>Actualiza este informe para comprobar la integración con el sistema.</item>
+        <item>Frecuencia de pantalla de la aplicación</item>
+        <item>Fondos preparados</item>
+        <item>Rutas rápidas de apertura</item>
+        <item>Actualizar informe</item>
+        <item>Leer los contadores actuales del módulo</item>
+        <item>Informe actualizado</item>
+        <item>La acción falló</item>
+        <item>No se pudo aplicar el ajuste</item>
+        <item>No se pudieron leer los ajustes</item>
+        <item>SystemUI no confirmó este ajuste.</item>
+        <item>Activa Sunshine Parts, concede acceso root y reinicia el dispositivo.</item>
+        <item>La integración no está conectada. Revisa LSPosed y reinicia.</item>
+        <item>Esperando actualización de pantalla</item>
+        <item>Estos modos reducen el trabajo visual. No cambian frecuencias, protección térmica ni frecuencia de pantalla.</item>
+        <item>Automático empieza en Ligero, cambia a Muy ligero a 39 °C y vuelve a 37 °C. Esta lectura es de la batería, no de CPU.</item>
+        <item>Ambos efectos vienen activados. Las optimizaciones de distribución y tareas repetidas siguen activas con ambas opciones.</item>
+        <item>Se mantienen el ritmo de las ondas y la velocidad de reproducción. Esta opción solo cambia la cantidad de geometría dibujada.</item>
+        <item>Optimizado</item>
+        <item>Normal</item>
+        <item>Eleva las frecuencias mínimas al menos al 50% del límite guardado. Consume más energía y puede generar más calor.</item>
+        <item>Los cambios se verifican en los archivos reales de política de CPU. La función no necesita la opción correspondiente de la ROM donante.</item>
+        <item>Las aplicaciones recientes podrían recargarse. Esto no fuerza la detención de todas las aplicaciones instaladas.</item>
+        <item>Ajustes de pantalla: mínimo </item>
+        <item>Los ajustes de frecuencia se verifican al aplicar esta opción.</item>
+        <item>Úsalo solo si sospechas que hay cachés dañadas. Recompilar sombreadores puede causar tirones temporales.</item>
+        <item>Dura hasta el próximo reinicio. Reinicia las aplicaciones afectadas. Se guarda el valor original.</item>
+        <item>Renderizador</item>
+        <item>Ajustes rápidos </item>
+        <item>Los contadores confirman que se ejecutó una rutina. No miden fotogramas por segundo ni velocidad.</item>
+        <item>Es la frecuencia de pantalla informada a la aplicación, no el número de fotogramas renderizados. Los límites de protección siguen activos.</item>
+        <item>Este informe cubre la sesión actual de SystemUI. Los contadores se reinician con SystemUI. No miden FPS ni prueban una mejora de rendimiento.</item>
+        <item>La información de memoria aún no está disponible.</item>
+        <item>Android está administrando la memoria. Espera un momento.</item>
+        <item>Hay poca memoria. Se pueden liberar las aplicaciones en caché que cumplan los requisitos.</item>
+        <item>Usa el modo Ligero mientras el dispositivo se enfría.</item>
+        <item>La memoria acaba de comprobarse.</item>
+        <item>Se pueden liberar algunas aplicaciones en caché si necesitas más memoria.</item>
+        <item>El sistema tiene suficiente memoria para el uso diario.</item>
+        <item>Hay suficiente memoria disponible. No necesita optimización.</item>
+        <item>Historial de frecuencia de CPU. Esperando datos.</item>
+        <item>Los datos de CPU no están disponibles.</item>
+        <item>Se detuvo la supervisión de CPU. Comprueba el acceso root.</item>
+        <item>No se pudieron leer las frecuencias de CPU. Comprueba el acceso root.</item>
+        <item>Carga visual %1$s</item>
+        <item>%1$s listo</item>
+        <item>%1$s · Android %2$s</item>
+        <item>Activado con Sunshine Parts</item>
+        <item>Optimiza las interfaces compatibles de Sunshine.</item>
+        <item>Cuando la función de procesamiento de Samsung no está disponible, este perfil ajusta los límites de la CPU. El modo de bajo consumo usa hasta el 80% del límite guardado. Las protecciones térmicas siguen activas.</item>
+        <item>Actividad de la CPU</item>
+        <item>Frecuencia</item>
+        <item>Carga de la CPU</item>
+        <item>Carga de la CPU (%)</item>
+        <item>Límite actual</item>
+        <item>Esperando lectura de carga…</item>
+        <item>Frecuencia: %1$s. Carga de la CPU: %2$s. Límite actual: %3$s.</item>
+        <item>Cada punto relaciona la carga de la CPU con la frecuencia informada. El punto resaltado es la lectura más reciente.</item>
+        <item>Monitorización de la CPU</item>
+        <item>Actualización cada 200 ms</item>
+        <item>En vivo · Actualización cada 200 ms</item>
+        <item>Se actualiza cada 200 ms mientras esta pestaña permanezca abierta, incluso en segundo plano. Sal de esta pestaña para detener la monitorización.</item>
+        <item>No se pudo iniciar la monitorización de la CPU.</item>
+        <item>Comprobando la conexión del módulo…</item>
+        <item>Comprobando el perfil visual…</item>
+        <item>Comprobando la memoria…</item>
+        <item>Comprobando los registros de diagnóstico…</item>
+        <item>Módulo conectado</item>
+        <item>Optimización completada</item>
+        <item>Finalizar</item>
+        <item>Ajustes de pantalla</item>
+        <item>%d envíos</item>
+        <item>%s Hz</item>
+        <item>Comprueba la conexión del panel</item>
+        <item>El módulo está listo para usar.</item>
+        <item>No se pudieron completar algunas comprobaciones.</item>
+        <item>Módulo conectado y activo\nen la interfaz del sistema.</item>
+        <item>Perfil %1$s aplicado\ncon menos detalle visual.</item>
+        <item>Memoria comprobada.\nNo hace falta limpiarla.</item>
+        <item>Diagnósticos repetitivos\nreducidos en esta sesión.</item>
+        <item>Modo de recuperación</item>
+        <item>Usa el comportamiento nativo. Reinicia el teléfono después de cambiar esta opción.</item>
+        <item>Recuperación del sistema</item>
+        <item>Interfaz nativa activa. Efectos del módulo en pausa.</item>
+        <item>Interfaz nativa mantenida\ncon los efectos en pausa.</item>
+        <item>Memoria comprobada.\nLimpieza automática en pausa.</item>
+        <item>Comprobaciones completadas</item>
+        <item>Reinicia para aplicar el modo de funcionamiento.</item>
+        <item>Mantén todos los detalles visuales y el fondo preparado del panel.</item>
+        <item>Usa Ligero desde 35 °C y Extraligero desde 42 °C.</item>
+        <item>Mantén el movimiento y desenfoque nativos con menos actualizaciones repetidas de QS.</item>
+        <item>Reduce movimiento y detalles de medios, con desenfoque nativo.</item>
+        <item>Automático no reduce los efectos por debajo de 35 °C.</item>
+        <item>Las opciones controladas por el perfil activo no están disponibles temporalmente.</item>
+        <item>Animaciones de la pantalla de inicio</item>
+        <item>Elige un perfil nativo o sigue el modo visual.</item>
+        <item>Desactivado — seguir modo visual</item>
+        <item>LowEnd (predeterminado)</item>
+        <item>LowEnd normalmente; LowestEnd en Extraligero.</item>
+        <item>Esta versión usa los parámetros HighEnd para Mass.</item>
+        <item>Usa los parámetros originales de One UI Home.</item>
+        <item>La selección manual viene desactivada. Las mejoras de carga no dependen de ella.</item>
+        <item>Perfil nativo guardado.</item>
+        <item>Gestión inteligente</item>
+        <item>Libera búferes del módulo sin uso ante presión persistente. Android gestiona las aplicaciones.</item>
+        <item>Otra acción sigue en curso.</item>
+        <item>Actualizando %1$s…</item>
+        <item>%1$s actualizado.</item>
+        <item>%1$s activado.</item>
+        <item>%1$s desactivado.</item>
+        <item>Recopilando diagnóstico…</item>
+        <item>Guardando cachés de shaders…</item>
+        <item>Liberando aplicaciones elegibles en caché…</item>
+        <item>Restaurando ajustes guardados…</item>
+        <item>Reiniciando la interfaz…</item>
+        <item>Iniciando grabación…</item>
+        <item>No se pudo completar la acción</item>
+        <item>Conexión con SystemUI verificada.</item>
+        <item>Efectos comprobados\npara el modo seleccionado.</item>
+        <item>Integración experimental no disponible en esta versión.</item>
+        <item>Acceso root no disponible</item>
+        <item>Sistema incompatible</item>
+        <item>Esta versión requiere Retriever, One UI 8.0 y Android 16.</item>
+        <item>El shell root no concedió acceso.</item>
+        <item>El acceso root está disponible. La conexión con SystemUI necesita atención.</item>
+        <item>El proceso ejecuta el módulo %1$s y la aplicación es %2$s. Reinicia el dispositivo para cargar el módulo instalado.</item>
+        <item>Intentar de nuevo</item>
+        <item>Opacidad del desenfoque</item>
+        <item>Fondo estático del panel</item>
+        <item>Movimiento del panel</item>
+        <item>Transiciones del panel</item>
+        <item>Altura de los botones</item>
+        <item>Animaciones del QS en Compose</item>
+        <item>Entrega del desenfoque</item>
+        <item>Gestos del QS</item>
+        <item>Capas gráficas de los botones</item>
+        <item>Desenfoque del panel por GPU</item>
+        <item>Actualización de opacidad del desenfoque</item>
+        <item>Tamaño de captura del desenfoque</item>
+        <item>Vista previa del desenfoque</item>
+        <item>Desenfoque preparado</item>
+        <item>Actualización de opacidad del QS</item>
+        <item>Diagnóstico de frecuencia de cuadros</item>
+        <item>Curvas de medios en caché</item>
+        <item>Lecturas directas del estado del QS</item>
+        <item>Destinos repetidos del QS</item>
+        <item>Vínculo de animaciones del QS</item>
+        <item>Colores de notificaciones</item>
+        <item>Dimensiones de iconos</item>
+        <item>Consultas de densidad de pantalla</item>
+        <item>Agrupación de ajustes de ventana</item>
+        <item>Diagnóstico del estado del panel</item>
+        <item>Diagnóstico de toques del panel</item>
+        <item>Ondas de medios</item>
+        <item>Movimiento entre paneles</item>
+        <item>Avisos de escena</item>
+        <item>Registro de cuadros del desenfoque</item>
+        <item>Protección del diseño Flex</item>
+        <item>Tareas de actualización del QS</item>
+        <item>Medición del tiempo de captura</item>
+        <item>Diseño del panel</item>
+        <item>Selección de carga visual</item>
+        <item>Error al iniciar la gestión de RAM</item>
+        <item>Movimiento de notificaciones</item>
+        <item>Diagnóstico de inicio</item>
+        <item>Solicitudes de frecuencia de cuadros</item>
+        <item>Instalado</item>
+        <item>Integrado</item>
+        <item>Comportamiento nativo</item>
+        <item>Alternativa nativa</item>
+        <item>Vinculado a cada animación</item>
+        <item>Reutilizado en la misma actualización</item>
+        <item>Historial nativo reducido</item>
+        <item>Vista previa del fondo</item>
+        <item>Fondos repetidos evitados</item>
+        <item>Áreas táctiles nativas con menos registros</item>
+        <item>Capas gráficas nativas</item>
+        <item>Renderizador experimental desactivado</item>
+        <item>Opacidad nativa con menos registros</item>
+        <item>Capturas menores antes de procesar</item>
+        <item>Dimensiones nativas de captura</item>
+        <item>Solicitudes nativas de frecuencia de cuadros</item>
+        <item>Acceso directo al estado nativo</item>
+        <item>Dimensiones nativas de iconos</item>
+        <item>Consultas nativas de densidad</item>
+        <item>Agrupación nativa del diseño de ventana</item>
+        <item>Último estado conservado con menos registros</item>
+        <item>Registros táctiles reducidos</item>
+        <item>Movimiento nativo con menos actualizaciones repetidas</item>
+        <item>Actualizado al cambiar la temperatura de batería</item>
+        <item>Búferes del módulo liberados cuando falta memoria</item>
+        <item>Movimiento nativo con menos asignaciones de diagnóstico</item>
+        <item>Desactivado en este perfil</item>
+        <item>Instalado para este perfil</item>
+        <item>Un solo procesamiento del desenfoque nativo</item>
+        <item>Desenfoque nativo seleccionado</item>
+        <item>Animaciones nativas seleccionadas</item>
+        <item>Supervisando la memoria disponible</item>
+        <item>Selección según temperatura de batería</item>
+        <item>Selección manual</item>
+        <item>Capturas nativas reducidas</item>
+        <item>Destinos repetidos del QS evitados</item>
+        <item>Pilas de diagnóstico evitadas en gestos</item>
+        <item>Aplicando %1$s…</item>
+        <item>Velocidad de procesamiento actualizada.</item>
+        <item>Perfil de energía de CPU actualizado.</item>
+        <item>Carga visual actualizada.</item>
+        <item>Animaciones de inicio actualizadas.</item>
+        <item>Detalles de ondas de medios actualizados.</item>
+        <item>Animaciones del panel actualizadas.</item>
+        <item>Desenfoque del panel actualizado.</item>
+        <item>Desenfoque preparado actualizado.</item>
+        <item>Ahorro de energía actualizado.</item>
+        <item>Batería adaptable actualizada.</item>
+        <item>Gestión de memoria actualizada.</item>
+        <item>Registro de diagnóstico actualizado.</item>
+        <item>Ajustes rápidos actualizados.</item>
+        <item>Diseño de botones actualizado.</item>
+        <item>Actualización de botones configurada.</item>
+        <item>Colores de notificaciones actualizados.</item>
+        <item>Módulo conectado y activo en la interfaz del sistema</item>
+        <item>Interfaz nativa conservada con efectos del módulo en pausa</item>
+        <item>Ajustes visuales comprobados para la carga seleccionada</item>
+        <item>Perfil %1$s aplicado con menos detalles visuales</item>
+        <item>Memoria comprobada con limpieza automática en pausa</item>
+        <item>Memoria disponible sin cerrar aplicaciones en segundo plano</item>
+        <item>Mensajes de diagnóstico repetitivos reducidos en esta sesión</item>
+        <item>Activando %1$s…</item>
+        <item>Desactivando %1$s…</item>
+        <item>Reducción de registros de diagnóstico</item>
+        <item>Vista previa preparada para abrir</item>
+        <item>Aún no preparada</item>
+        <item>Usos de la vista previa preparada</item>
+        <item>Diagnósticos de frecuencia de cuadros evitados</item>
+        <item>Supervisión de memoria</item>
+        <item>Comprobaciones de memoria</item>
+        <item>Mantenimiento de búferes</item>
+        <item>Error de vista previa</item>
+        <item>Diagnóstico de transacciones gráficas</item>
+        <item>Áreas reservadas para gestos del sistema</item>
+        <item>Frecuencia de cuadros nativa con menos registros</item>
+        <item>Transacciones gráficas nativas con menos registros</item>
+        <item>Áreas de gestos iguales reutilizadas por Android</item>
+        <item>Esperando el inicio de la aplicación</item>
+        <item>Reutilización nativa de áreas de gestos ya activa</item>
+        <item>Animaciones del panel activadas.</item>
+        <item>Animaciones del panel desactivadas.</item>
+        <item>Desenfoque del panel activado.</item>
+        <item>Desenfoque del panel desactivado.</item>
+        <item>Desenfoque preparado activado.</item>
+        <item>Desenfoque preparado desactivado.</item>
+        <item>Actualizaciones de ajustes rápidos activadas.</item>
+        <item>Actualizaciones de ajustes rápidos desactivadas.</item>
+        <item>Diseño de botones activado.</item>
+        <item>Diseño de botones desactivado.</item>
+        <item>Actualizaciones de botones activadas.</item>
+        <item>Actualizaciones de botones desactivadas.</item>
+        <item>Reutilización del diseño del panel activada.</item>
+        <item>Reutilización del diseño del panel desactivada.</item>
+        <item>Contenido preparado del panel activado.</item>
+        <item>Contenido preparado del panel desactivado.</item>
+        <item>Preferencia por 120 Hz activada.</item>
+        <item>Preferencia por 120 Hz desactivada.</item>
+        <item>Colores suaves de notificaciones activados.</item>
+        <item>Colores suaves de notificaciones desactivados.</item>
+        <item>Gestión inteligente de RAM activada.</item>
+        <item>Gestión inteligente de RAM desactivada.</item>
+        <item>Modo de recuperación activado.</item>
+        <item>Modo de recuperación desactivado.</item>
+        <item>Ahorro de energía activado.</item>
+        <item>Ahorro de energía desactivado.</item>
+        <item>Batería adaptable activada.</item>
+        <item>Batería adaptable desactivada.</item>
+        <item>Reducción de registros de diagnóstico activada.</item>
+        <item>Reducción de registros de diagnóstico desactivada.</item>
+        <item>Preferencia por 120 Hz</item>
+        <item>Contenido preparado del panel</item>
+        <item>Versión del framework no reconocida</item>
+        <item>Estos modos reducen el trabajo visual.</item>
+        <item>Simple</item>
+        <item>Medio</item>
+        <item>Ajuste dinámico de animaciones desactivado.</item>
+        <item>Ajuste dinámico de animaciones activado.</item>
+        <item>Las transiciones del panel siguen la carga visual.</item>
+        <item>Animaciones del panel a 0,8×</item>
+        <item>Animaciones del panel a 0,5×</item>
+        <item>Efectos de transición</item>
+        <item>Ajuste los efectos en las transiciones de apps.</item>
+        <item>Sin sombras</item>
+        <item>Sin esquinas redondeadas</item>
+        <item>Actualización de audio</item>
+        <item>Consulte el estado de SoundAlive en segundo plano.</item>
+        <item>Ultraligero</item>
+        <item>Usa un desenfoque pequeño del fondo y menos detalles multimedia. Mantén las animaciones a 0,8x.</item>
+        <item>Ajustes de la pantalla de inicio</item>
+        <item>Extensión de borde reducida</item>
+        <item>Evita la extensión de borde durante las transiciones entre aplicaciones.</item>
+        <item>Comprueba la conexión del panel</item>
+        <item>Actividad del panel y ajustes de pantalla</item>
+        <item>Archivo de diagnóstico exportado</item>
+        <item>Es necesario reiniciar</item>
+        <item>Acceso verificado. Reinicia el dispositivo para cargar el módulo.</item>
+    </array>
+</resources>

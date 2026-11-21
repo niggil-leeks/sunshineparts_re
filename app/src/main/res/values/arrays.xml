@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="parts_source">
+        <item>Performance</item>
+        <item>Memory</item>
+        <item>Customization</item>
+        <item>Visual effects</item>
+        <item>Advanced settings</item>
+        <item>Module status</item>
+        <item>About Sunshine Parts</item>
+        <item>Processing speed</item>
+        <item>UI workload</item>
+        <item>Policy limits</item>
+        <item>Module report</item>
+        <item>Language</item>
+        <item>App language</item>
+        <item>English</item>
+        <item>Support</item>
+        <item>Back</item>
+        <item>Close</item>
+        <item>Cancel</item>
+        <item>Continue</item>
+        <item>OK</item>
+        <item>Done</item>
+        <item>Version</item>
+        <item>Requirements</item>
+        <item>Loading</item>
+        <item>Applying changes…</item>
+        <item>Updating settings…</item>
+        <item>Not reported</item>
+        <item>Not available</item>
+        <item>Unavailable</item>
+        <item>Connected</item>
+        <item>Restart needed</item>
+        <item>Check connection</item>
+        <item>Check that the panel module is responding</item>
+        <item>Panel connected</item>
+        <item>Connection</item>
+        <item>Panel</item>
+        <item>Device</item>
+        <item>Details</item>
+        <item>Software</item>
+        <item>Diagnostics</item>
+        <item>View integration details</item>
+        <item>Additional care</item>
+        <item>Check connections and view ROM information</item>
+        <item>Review panel activity and display settings</item>
+        <item>App version and requirements</item>
+        <item>Get help and project updates</item>
+        <item>Visual effects and advanced settings</item>
+        <item>Great</item>
+        <item>Good</item>
+        <item>Warm</item>
+        <item>Hot</item>
+        <item>Checking</item>
+        <item>Checking…</item>
+        <item>Waiting</item>
+        <item>Waiting…</item>
+        <item>Waiting for readings…</item>
+        <item>Check module</item>
+        <item>Check the SystemUI connection.</item>
+        <item>Battery temperature is not available yet.</item>
+        <item>Your phone is cool. No optimization is needed.</item>
+        <item>Your visual profile has just been checked.</item>
+        <item>Your phone is running well. Check the visual profile to keep it responsive.</item>
+        <item>The visual profile is ready. Give your phone time to cool.</item>
+        <item>A lighter visual profile can help while your phone cools down.</item>
+        <item>Optimize now</item>
+        <item>Optimize now?</item>
+        <item>Optimizing</item>
+        <item>Check the visual profile and release cached apps only if Android reports low memory. Recently used apps may need to reload.</item>
+        <item>Module connection</item>
+        <item>Visual profile</item>
+        <item>Diagnostic logging</item>
+        <item>All checks completed</item>
+        <item>Cached app cleanup requested</item>
+        <item>Enough memory available</item>
+        <item>Repetitive messages reduced</item>
+        <item>Current logging settings kept</item>
+        <item>Couldn\'t complete optimization</item>
+        <item>Needs attention</item>
+        <item>Not checked</item>
+        <item>Your settings are ready</item>
+        <item>Off</item>
+        <item>Automatic</item>
+        <item>Light</item>
+        <item>Extra light</item>
+        <item>Enabled</item>
+        <item>Disabled</item>
+        <item>System default</item>
+        <item>Device default</item>
+        <item>Applied</item>
+        <item>Saved</item>
+        <item>Visual workload</item>
+        <item>Use normal visual detail. Existing panel fixes stay on.</item>
+        <item>Start with Light and reduce visual detail further as the battery warms up.</item>
+        <item>Build each background once, with lighter blur and media-wave detail.</item>
+        <item>Use the lightest blur path and fewer wave points. Background details are softer.</item>
+        <item>Saved. Restart to apply every integration.</item>
+        <item>Current activity</item>
+        <item>Active workload</item>
+        <item>Normal detail</item>
+        <item>Automatic adjustment</item>
+        <item>Battery temperature: %.1f °C.</item>
+        <item>Battery temperature is unavailable.</item>
+        <item>Panel effects</item>
+        <item>Panel animations</item>
+        <item>Show the original panel transitions. Media waves keep moving in either setting.</item>
+        <item>Panel blur</item>
+        <item>Show background blur in Quick settings and notifications.</item>
+        <item>Hardware blur</item>
+        <item>Use the GPU for prepared panel backgrounds in Light and Extra light.</item>
+        <item>Media</item>
+        <item>Media wave detail</item>
+        <item>Fine</item>
+        <item>Balanced</item>
+        <item>More settings</item>
+        <item>Secondary optimizations and maintenance</item>
+        <item>Processing</item>
+        <item>CPU power profile</item>
+        <item>Standard</item>
+        <item>Low power</item>
+        <item>High</item>
+        <item>Maximum</item>
+        <item>Power management</item>
+        <item>Power saving</item>
+        <item>Limit power use through Android\'s power service.</item>
+        <item>Adaptive battery</item>
+        <item>Limit battery use for apps you use less often.</item>
+        <item>View current CPU policy limits</item>
+        <item>Choose a processing speed</item>
+        <item>Restore saved CPU frequency floors for balanced everyday use.</item>
+        <item>Raise CPU floors to at least 35% of the saved ceiling for quicker response.</item>
+        <item>CPU clock history</item>
+        <item>CPU cluster</item>
+        <item>CPU group</item>
+        <item>Little</item>
+        <item>Big</item>
+        <item>Prime</item>
+        <item>Connecting to CPU readings…</item>
+        <item>Live · One reading per second</item>
+        <item>The solid line is the reported clock. The dashed line is the allowed maximum. A lower clock is normal when the CPU is idle.</item>
+        <item>Updates once a second while this page is open. Monitoring stops when you leave or put the app in the background.</item>
+        <item>Clock</item>
+        <item>Allowed maximum</item>
+        <item>Now</item>
+        <item>Limit: </item>
+        <item>%ds ago</item>
+        <item>%1$d%% used</item>
+        <item>%1$s GB available</item>
+        <item>%1$s GB total memory</item>
+        <item>Release cached apps</item>
+        <item>Active services are managed by Android</item>
+        <item>Release cached apps?</item>
+        <item>Background usage limits</item>
+        <item>Maximum cached apps</item>
+        <item>Cached app limit</item>
+        <item>Effective limit: </item>
+        <item>Cached app freezer</item>
+        <item>Saved. Restart the device to apply the framework policy.</item>
+        <item>Cached apps are not the same as running services. Lower limits can increase app reloads.</item>
+        <item>Secondary optimizations</item>
+        <item>Prepared panel blur</item>
+        <item>Prepare the panel background before it is needed.</item>
+        <item>Quick settings updates</item>
+        <item>Combine repeated Quick settings updates.</item>
+        <item>Tile layout</item>
+        <item>Reduce repeated tile layout work.</item>
+        <item>Tile updates</item>
+        <item>Avoid repeating unchanged tile updates.</item>
+        <item>Panel layout reuse</item>
+        <item>Reuse compatible Quick settings layout work.</item>
+        <item>Keep panel content ready</item>
+        <item>Keep compatible Quick settings content ready.</item>
+        <item>Prefer 120 Hz</item>
+        <item>Prefer 120 Hz when the device can use it. Power saving and thermal limits still apply.</item>
+        <item>One UI Home motion</item>
+        <item>Use the supported launcher transition profile.</item>
+        <item>Muted light surfaces</item>
+        <item>Use quieter notification colors. Restart SystemUI after turning this off.</item>
+        <item>Restart SystemUI</item>
+        <item>Restart only the verified SystemUI process</item>
+        <item>Restart SystemUI?</item>
+        <item>The status bar disappears briefly. The lock screen may return.</item>
+        <item>Maintenance</item>
+        <item>Reset UI shader caches</item>
+        <item>Move recognized shader files into a backup</item>
+        <item>Reset shader caches?</item>
+        <item>UI shader caches</item>
+        <item>Restore original system settings</item>
+        <item>Restore CPU limits and the first saved system settings</item>
+        <item>Restore original settings?</item>
+        <item>Module switches are kept. A reboot may be needed for framework settings.</item>
+        <item>Restore settings</item>
+        <item>Reduce diagnostic logging</item>
+        <item>Reduce repetitive messages. Warnings and errors stay available.</item>
+        <item>Reduced logging applied</item>
+        <item>Previous logging restored</item>
+        <item>Export diagnostic archive</item>
+        <item>Record frames and logs for 15 seconds</item>
+        <item>Recording: pull QS now</item>
+        <item>Saved to </item>
+        <item>App renderer</item>
+        <item>Skia OpenGL</item>
+        <item>Skia GL</item>
+        <item>Skia Vulkan</item>
+        <item>Change app renderer?</item>
+        <item>Applied for the current boot.</item>
+        <item>Integrations</item>
+        <item>Panel activity</item>
+        <item>Blur results</item>
+        <item>Lightweight blur results</item>
+        <item>Prepared opening fast paths</item>
+        <item>Lighter split-panel updates</item>
+        <item>Unchanged blur deliveries avoided</item>
+        <item>Hardware blur backgrounds</item>
+        <item>Hardware canvas submissions</item>
+        <item>Software fallbacks</item>
+        <item>QS gesture updates</item>
+        <item>Blur errors</item>
+        <item>Current session</item>
+        <item>SystemUI connected</item>
+        <item>Check module status</item>
+        <item>Graphics activity</item>
+        <item>GPU blur: %d submissions</item>
+        <item>Active detail</item>
+        <item>Battery temperature</item>
+        <item>Display policy</item>
+        <item>Framework preference</item>
+        <item>Refresh this report to check the framework scope.</item>
+        <item>App display refresh</item>
+        <item>Prepared backgrounds</item>
+        <item>Opening fast paths</item>
+        <item>Refresh report</item>
+        <item>Read the current module counters</item>
+        <item>Report updated</item>
+        <item>Action failed</item>
+        <item>Couldn\'t apply setting</item>
+        <item>Couldn\'t read settings</item>
+        <item>SystemUI did not confirm this setting.</item>
+        <item>Enable Sunshine Parts, grant root and restart the device.</item>
+        <item>Scope not connected. Check LSPosed and restart.</item>
+        <item>Awaiting display update</item>
+        <item>These modes reduce visual work. They do not change CPU or GPU clocks, thermal protection or refresh rate.</item>
+        <item>Automatic uses Light from startup. It switches to Extra light when battery temperature reaches 39 °C. The battery signal clears at 37 °C. Battery temperature is not a CPU temperature reading.</item>
+        <item>Both effects are on by default. Layout and duplicate-work optimizations remain active in either mode.</item>
+        <item>Wave timing and playback speed remain native. This setting adjusts only the amount of geometry drawn.</item>
+        <item>Optimized</item>
+        <item>Normal</item>
+        <item>Raise CPU floors to at least 50% of the saved ceiling. Uses more power and can increase heat.</item>
+        <item>Changes are checked against actual CPU policy files. This compatibility engine does not require the donor ROM\'s Samsung feature flag.</item>
+        <item>Recently used apps may need to reload. This does not force-stop every installed app.</item>
+        <item>Native display settings: min </item>
+        <item>Native refresh settings are verified when this option is applied.</item>
+        <item>Use only for suspected corrupt caches. Shader recompilation can temporarily increase stutter.</item>
+        <item>This lasts until reboot. Restart affected apps. The original value is saved.</item>
+        <item>Renderer</item>
+        <item>Quick settings </item>
+        <item>Activity counters confirm that a path ran. They are not a measurement of frame rate or speed.</item>
+        <item>This is the app display rate, not a count of rendered frames. Native protection limits still apply.</item>
+        <item>This report covers the current SystemUI session. Counters reset when SystemUI restarts. They do not measure FPS or prove a performance gain.</item>
+        <item>Memory information is not available yet.</item>
+        <item>Android is managing memory. Give it a moment.</item>
+        <item>Memory is low. Eligible cached apps can be released.</item>
+        <item>Use Light UI workload while the device cools.</item>
+        <item>Memory has just been checked.</item>
+        <item>Some cached apps can be cleared if you need more memory.</item>
+        <item>Your system has enough memory for everyday use.</item>
+        <item>There is enough memory headroom. No optimization needed.</item>
+        <item>CPU clock history. Waiting for readings.</item>
+        <item>CPU readings are not available.</item>
+        <item>CPU monitor stopped. Check root access.</item>
+        <item>Couldn\'t read CPU clocks. Check root access.</item>
+        <item>%1$s visual workload</item>
+        <item>%1$s ready</item>
+        <item>%1$s · Android %2$s</item>
+        <item>Enabled with Sunshine Parts</item>
+        <item>Optimizes supported Sunshine interfaces.</item>
+        <item>The compatibility profile applies CPU policy limits when Samsung\'s processing feature is absent. Low power limits CPU ceilings to 80% of the saved baseline. Thermal protections remain active.</item>
+        <item>CPU activity</item>
+        <item>Frequency</item>
+        <item>CPU load</item>
+        <item>CPU load (%)</item>
+        <item>Current limit</item>
+        <item>Waiting for load readings…</item>
+        <item>Frequency: %1$s. CPU load: %2$s. Current limit: %3$s.</item>
+        <item>Each point pairs CPU load with the reported frequency. The highlighted point is the latest reading.</item>
+        <item>CPU monitoring</item>
+        <item>Updates every 200 ms</item>
+        <item>Live · Updates every 200 ms</item>
+        <item>Updates every 200 ms while this page remains open, including in the background. Leave this page to stop monitoring.</item>
+        <item>Couldn\'t start CPU monitoring.</item>
+        <item>Checking module connection…</item>
+        <item>Checking visual profile…</item>
+        <item>Checking memory…</item>
+        <item>Checking diagnostic logging…</item>
+        <item>Module connected</item>
+        <item>Optimization complete</item>
+        <item>Finish</item>
+        <item>Display settings</item>
+        <item>%d submissions</item>
+        <item>%s Hz</item>
+        <item>Check the panel connection</item>
+        <item>The module is ready to use.</item>
+        <item>Some checks could not be completed.</item>
+        <item>Module connected and active\nin the system interface.</item>
+        <item>Profile %1$s applied\nwith lighter visual detail.</item>
+        <item>Memory checked.\nNo cleanup is needed.</item>
+        <item>Repetitive diagnostics\nreduced for this session.</item>
+        <item>Recovery mode</item>
+        <item>Keep native system behavior. Restart the phone after changing this option.</item>
+        <item>System recovery</item>
+        <item>Native interface active. Module effects are paused.</item>
+        <item>Native interface kept\nwith module effects paused.</item>
+        <item>Memory checked.\nAutomatic cleanup is paused.</item>
+        <item>Recovery checks complete</item>
+        <item>Restart to apply the runtime mode.</item>
+        <item>Keep full visual detail and the prepared panel background.</item>
+        <item>Use Light from 35 °C and Extra light from 42 °C.</item>
+        <item>Keep native motion and ROM blur, with fewer repeated QS updates.</item>
+        <item>Reduce panel motion and media detail, with native ROM blur.</item>
+        <item>Automatic uses no visual reduction below 35 °C.</item>
+        <item>Options controlled by the active visual profile are temporarily unavailable.</item>
+        <item>Home screen animations</item>
+        <item>Choose a native launcher preset or follow the visual profile.</item>
+        <item>Off — follow visual profile</item>
+        <item>LowEnd (default)</item>
+        <item>LowEnd normally; LowestEnd in Extra light.</item>
+        <item>This launcher routes Mass to the native HighEnd parameters.</item>
+        <item>Use the original parameters supplied by One UI Home.</item>
+        <item>The manual override is off by default. Launcher workload reductions do not depend on this selection.</item>
+        <item>Native launcher preset saved.</item>
+        <item>Smart RAM management</item>
+        <item>Release unused module buffers under sustained memory pressure. Android manages app eviction.</item>
+        <item>Another action is still running.</item>
+        <item>Updating %1$s…</item>
+        <item>%1$s updated.</item>
+        <item>%1$s enabled.</item>
+        <item>%1$s disabled.</item>
+        <item>Collecting diagnostic information…</item>
+        <item>Backing up shader caches…</item>
+        <item>Releasing eligible cached apps…</item>
+        <item>Restoring saved settings…</item>
+        <item>Restarting the system interface…</item>
+        <item>Starting diagnostic recording…</item>
+        <item>Couldn\'t complete action</item>
+        <item>SystemUI connection verified.</item>
+        <item>Visual settings checked\nfor the selected workload.</item>
+        <item>Experimental integration unavailable in this build.</item>
+        <item>Root access unavailable</item>
+        <item>Unsupported system</item>
+        <item>This build requires Retriever, One UI 8.0 and Android 16.</item>
+        <item>The root shell did not grant access.</item>
+        <item>Root access is available. The SystemUI connection needs attention.</item>
+        <item>The process is running module %1$s; this app is %2$s. Restart the device to load the installed module.</item>
+        <item>Try again</item>
+        <item>Blur alpha scope</item>
+        <item>Static panel background</item>
+        <item>Panel motion</item>
+        <item>Panel view motion</item>
+        <item>Tile height</item>
+        <item>QS Compose motion</item>
+        <item>Blur delivery</item>
+        <item>QS gesture handling</item>
+        <item>Tile graphics layers</item>
+        <item>GPU panel blur</item>
+        <item>Blur opacity updates</item>
+        <item>Blur capture size</item>
+        <item>Blur preview</item>
+        <item>Prepared blur</item>
+        <item>QS opacity updates</item>
+        <item>Frame rate diagnostics</item>
+        <item>Media interpolation cache</item>
+        <item>Direct QS state reads</item>
+        <item>Repeated QS targets</item>
+        <item>QS animation ownership</item>
+        <item>Notification colors</item>
+        <item>Icon dimensions</item>
+        <item>Display density queries</item>
+        <item>Window layout batching</item>
+        <item>Panel state diagnostics</item>
+        <item>Panel touch diagnostics</item>
+        <item>Media waves</item>
+        <item>Split panel motion</item>
+        <item>Scene warnings</item>
+        <item>Blur frame logging</item>
+        <item>Flex layout guard</item>
+        <item>QS update jobs</item>
+        <item>Capture timing</item>
+        <item>Panel layout engine</item>
+        <item>Visual workload selection</item>
+        <item>Memory initialization error</item>
+        <item>Notification movement</item>
+        <item>Home screen diagnostics</item>
+        <item>Frame rate votes</item>
+        <item>Installed</item>
+        <item>Integrated</item>
+        <item>Native path</item>
+        <item>Native fallback</item>
+        <item>Owned by each animation</item>
+        <item>Reused within each update</item>
+        <item>Short native history</item>
+        <item>Wallpaper preview</item>
+        <item>Repeated backgrounds avoided</item>
+        <item>Native touch areas with less logging</item>
+        <item>Native graphics layers</item>
+        <item>Experimental renderer disabled</item>
+        <item>Native opacity with less logging</item>
+        <item>Smaller captures before processing</item>
+        <item>Native capture dimensions</item>
+        <item>Native frame rate votes</item>
+        <item>Direct native state access</item>
+        <item>Native icon dimensions</item>
+        <item>Native density queries</item>
+        <item>Native window layout batching</item>
+        <item>Latest state retained with less logging</item>
+        <item>Touch logging reduced</item>
+        <item>Native motion with fewer repeated updates</item>
+        <item>Updated when the battery temperature changes</item>
+        <item>Module buffers released under memory pressure</item>
+        <item>Native movement with fewer diagnostic allocations</item>
+        <item>Disabled by this profile</item>
+        <item>Installed for this profile</item>
+        <item>Single native blur pass</item>
+        <item>Native blur selected</item>
+        <item>Native animations selected</item>
+        <item>Monitoring memory pressure</item>
+        <item>Temperature-based selection</item>
+        <item>Manual selection</item>
+        <item>Reduced native captures</item>
+        <item>Repeated QS targets avoided</item>
+        <item>Notification stacks avoided</item>
+        <item>Applying %1$s…</item>
+        <item>Processing speed updated.</item>
+        <item>CPU power profile updated.</item>
+        <item>Visual workload updated.</item>
+        <item>Home screen animations updated.</item>
+        <item>Media wave detail updated.</item>
+        <item>Panel animations updated.</item>
+        <item>Panel blur updated.</item>
+        <item>Prepared blur updated.</item>
+        <item>Power saving updated.</item>
+        <item>Adaptive battery updated.</item>
+        <item>Memory management updated.</item>
+        <item>Diagnostic logging updated.</item>
+        <item>Quick settings updated.</item>
+        <item>Tile layout updated.</item>
+        <item>Tile updates configured.</item>
+        <item>Notification colors updated.</item>
+        <item>Module connected and active in the system interface</item>
+        <item>Native interface preserved with module effects paused</item>
+        <item>Visual settings checked for the selected workload</item>
+        <item>Profile %1$s applied with lighter visual detail</item>
+        <item>Memory checked with automatic cleanup paused</item>
+        <item>Memory available without closing background apps</item>
+        <item>Repetitive diagnostic messages reduced for this session</item>
+        <item>Enabling %1$s…</item>
+        <item>Disabling %1$s…</item>
+        <item>Diagnostic logging reduction</item>
+        <item>Prepared opening preview</item>
+        <item>Not prepared</item>
+        <item>Preview uses</item>
+        <item>Frame vote diagnostics avoided</item>
+        <item>Memory monitoring</item>
+        <item>Memory checks</item>
+        <item>Buffer releases</item>
+        <item>Preview error</item>
+        <item>Surface transaction diagnostics</item>
+        <item>System gesture exclusion areas</item>
+        <item>Native frame rate votes with less logging</item>
+        <item>Native surface commits with less logging</item>
+        <item>Unchanged gesture areas reused by Android</item>
+        <item>Waiting for application initialization</item>
+        <item>Native unchanged-rectangle guard already enabled</item>
+        <item>Panel animations enabled.</item>
+        <item>Panel animations disabled.</item>
+        <item>Panel blur enabled.</item>
+        <item>Panel blur disabled.</item>
+        <item>Prepared panel blur enabled.</item>
+        <item>Prepared panel blur disabled.</item>
+        <item>Quick settings updates enabled.</item>
+        <item>Quick settings updates disabled.</item>
+        <item>Tile layout enabled.</item>
+        <item>Tile layout disabled.</item>
+        <item>Tile updates enabled.</item>
+        <item>Tile updates disabled.</item>
+        <item>Panel layout reuse enabled.</item>
+        <item>Panel layout reuse disabled.</item>
+        <item>Keep panel content ready enabled.</item>
+        <item>Keep panel content ready disabled.</item>
+        <item>Prefer 120 Hz enabled.</item>
+        <item>Prefer 120 Hz disabled.</item>
+        <item>Muted light surfaces enabled.</item>
+        <item>Muted light surfaces disabled.</item>
+        <item>Smart RAM management enabled.</item>
+        <item>Smart RAM management disabled.</item>
+        <item>Recovery mode enabled.</item>
+        <item>Recovery mode disabled.</item>
+        <item>Power saving enabled.</item>
+        <item>Power saving disabled.</item>
+        <item>Adaptive battery enabled.</item>
+        <item>Adaptive battery disabled.</item>
+        <item>Diagnostic logging reduction enabled.</item>
+        <item>Diagnostic logging reduction disabled.</item>
+        <item>120 Hz preference</item>
+        <item>Prepared panel content</item>
+        <item>Framework version not recognized</item>
+        <item>These modes reduce visual work.</item>
+        <item>Simple</item>
+        <item>Medium</item>
+        <item>Dynamic animation adjustment is off.</item>
+        <item>Dynamic animation adjustment is on.</item>
+        <item>Panel transitions follow visual workload.</item>
+        <item>Panel animations at 0.8×</item>
+        <item>Panel animations at 0.5×</item>
+        <item>Transition effects</item>
+        <item>Adjust visual effects during app transitions.</item>
+        <item>No shadows</item>
+        <item>No rounded corners</item>
+        <item>Audio state updates</item>
+        <item>Read the SoundAlive state in the background.</item>
+        <item>Ultra light</item>
+        <item>Use a small prepared wallpaper blur and fewer media details. Keep animations at 0.8x.</item>
+        <item>Home screen settings</item>
+        <item>Reduced edge extension</item>
+        <item>Avoid edge extension during app transitions.</item>
+        <item>Panel connection</item>
+        <item>Panel activity and display settings</item>
+        <item>Diagnostic archive exported</item>
+        <item>Restart required</item>
+        <item>Access verified. Restart the device to load the module.</item>
+    </array>
+    <array name="parts_translation">
+        <item>Performance</item>
+        <item>Memory</item>
+        <item>Customization</item>
+        <item>Visual effects</item>
+        <item>Advanced settings</item>
+        <item>Module status</item>
+        <item>About Sunshine Parts</item>
+        <item>Processing speed</item>
+        <item>UI workload</item>
+        <item>Policy limits</item>
+        <item>Module report</item>
+        <item>Language</item>
+        <item>App language</item>
+        <item>English</item>
+        <item>Support</item>
+        <item>Back</item>
+        <item>Close</item>
+        <item>Cancel</item>
+        <item>Continue</item>
+        <item>OK</item>
+        <item>Done</item>
+        <item>Version</item>
+        <item>Requirements</item>
+        <item>Loading</item>
+        <item>Applying changes…</item>
+        <item>Updating settings…</item>
+        <item>Not reported</item>
+        <item>Not available</item>
+        <item>Unavailable</item>
+        <item>Connected</item>
+        <item>Restart needed</item>
+        <item>Check connection</item>
+        <item>Check that the panel module is responding</item>
+        <item>Panel connected</item>
+        <item>Connection</item>
+        <item>Panel</item>
+        <item>Device</item>
+        <item>Details</item>
+        <item>Software</item>
+        <item>Diagnostics</item>
+        <item>View integration details</item>
+        <item>Additional care</item>
+        <item>Check connections and view ROM information</item>
+        <item>Review panel activity and display settings</item>
+        <item>App version and requirements</item>
+        <item>Get help and project updates</item>
+        <item>Visual effects and advanced settings</item>
+        <item>Great</item>
+        <item>Good</item>
+        <item>Warm</item>
+        <item>Hot</item>
+        <item>Checking</item>
+        <item>Checking…</item>
+        <item>Waiting</item>
+        <item>Waiting…</item>
+        <item>Waiting for readings…</item>
+        <item>Check module</item>
+        <item>Check the SystemUI connection.</item>
+        <item>Battery temperature is not available yet.</item>
+        <item>Your phone is cool. No optimization is needed.</item>
+        <item>Your visual profile has just been checked.</item>
+        <item>Your phone is running well. Check the visual profile to keep it responsive.</item>
+        <item>The visual profile is ready. Give your phone time to cool.</item>
+        <item>A lighter visual profile can help while your phone cools down.</item>
+        <item>Optimize now</item>
+        <item>Optimize now?</item>
+        <item>Optimizing</item>
+        <item>Check the visual profile and release cached apps only if Android reports low memory. Recently used apps may need to reload.</item>
+        <item>Module connection</item>
+        <item>Visual profile</item>
+        <item>Diagnostic logging</item>
+        <item>All checks completed</item>
+        <item>Cached app cleanup requested</item>
+        <item>Enough memory available</item>
+        <item>Repetitive messages reduced</item>
+        <item>Current logging settings kept</item>
+        <item>Couldn\'t complete optimization</item>
+        <item>Needs attention</item>
+        <item>Not checked</item>
+        <item>Your settings are ready</item>
+        <item>Off</item>
+        <item>Automatic</item>
+        <item>Light</item>
+        <item>Extra light</item>
+        <item>Enabled</item>
+        <item>Disabled</item>
+        <item>System default</item>
+        <item>Device default</item>
+        <item>Applied</item>
+        <item>Saved</item>
+        <item>Visual workload</item>
+        <item>Use normal visual detail. Existing panel fixes stay on.</item>
+        <item>Start with Light and reduce visual detail further as the battery warms up.</item>
+        <item>Build each background once, with lighter blur and media-wave detail.</item>
+        <item>Use the lightest blur path and fewer wave points. Background details are softer.</item>
+        <item>Saved. Restart to apply every integration.</item>
+        <item>Current activity</item>
+        <item>Active workload</item>
+        <item>Normal detail</item>
+        <item>Automatic adjustment</item>
+        <item>Battery temperature: %.1f °C.</item>
+        <item>Battery temperature is unavailable.</item>
+        <item>Panel effects</item>
+        <item>Panel animations</item>
+        <item>Show the original panel transitions. Media waves keep moving in either setting.</item>
+        <item>Panel blur</item>
+        <item>Show background blur in Quick settings and notifications.</item>
+        <item>Hardware blur</item>
+        <item>Use the GPU for prepared panel backgrounds in Light and Extra light.</item>
+        <item>Media</item>
+        <item>Media wave detail</item>
+        <item>Fine</item>
+        <item>Balanced</item>
+        <item>More settings</item>
+        <item>Secondary optimizations and maintenance</item>
+        <item>Processing</item>
+        <item>CPU power profile</item>
+        <item>Standard</item>
+        <item>Low power</item>
+        <item>High</item>
+        <item>Maximum</item>
+        <item>Power management</item>
+        <item>Power saving</item>
+        <item>Limit power use through Android\'s power service.</item>
+        <item>Adaptive battery</item>
+        <item>Limit battery use for apps you use less often.</item>
+        <item>View current CPU policy limits</item>
+        <item>Choose a processing speed</item>
+        <item>Restore saved CPU frequency floors for balanced everyday use.</item>
+        <item>Raise CPU floors to at least 35% of the saved ceiling for quicker response.</item>
+        <item>CPU clock history</item>
+        <item>CPU cluster</item>
+        <item>CPU group</item>
+        <item>Little</item>
+        <item>Big</item>
+        <item>Prime</item>
+        <item>Connecting to CPU readings…</item>
+        <item>Live · One reading per second</item>
+        <item>The solid line is the reported clock. The dashed line is the allowed maximum. A lower clock is normal when the CPU is idle.</item>
+        <item>Updates once a second while this page is open. Monitoring stops when you leave or put the app in the background.</item>
+        <item>Clock</item>
+        <item>Allowed maximum</item>
+        <item>Now</item>
+        <item>Limit: </item>
+        <item>%ds ago</item>
+        <item>%1$d%% used</item>
+        <item>%1$s GB available</item>
+        <item>%1$s GB total memory</item>
+        <item>Release cached apps</item>
+        <item>Active services are managed by Android.</item>
+        <item>Release cached apps?</item>
+        <item>Background usage limits</item>
+        <item>Maximum cached apps</item>
+        <item>Cached app limit</item>
+        <item>Effective limit: </item>
+        <item>Cached app freezer</item>
+        <item>Saved. Restart the device to apply the framework policy.</item>
+        <item>Cached apps are not the same as running services. Lower limits can increase app reloads.</item>
+        <item>Secondary optimizations</item>
+        <item>Prepared panel blur</item>
+        <item>Prepare the panel background before it is needed.</item>
+        <item>Quick settings updates</item>
+        <item>Combine repeated Quick settings updates.</item>
+        <item>Tile layout</item>
+        <item>Reduce repeated tile layout work.</item>
+        <item>Tile updates</item>
+        <item>Avoid repeating unchanged tile updates.</item>
+        <item>Panel layout reuse</item>
+        <item>Reuse compatible Quick settings layout work.</item>
+        <item>Keep panel content ready</item>
+        <item>Keep compatible Quick settings content ready.</item>
+        <item>Prefer 120 Hz</item>
+        <item>Prefer 120 Hz when the device can use it. Power saving and thermal limits still apply.</item>
+        <item>One UI Home motion</item>
+        <item>Use the supported launcher transition profile.</item>
+        <item>Muted light surfaces</item>
+        <item>Use quieter notification colors. Restart SystemUI after turning this off.</item>
+        <item>Restart SystemUI</item>
+        <item>Restart only the verified SystemUI process</item>
+        <item>Restart SystemUI?</item>
+        <item>The status bar disappears briefly. The lock screen may return.</item>
+        <item>Maintenance</item>
+        <item>Reset UI shader caches</item>
+        <item>Move recognized shader files into a backup</item>
+        <item>Reset shader caches?</item>
+        <item>UI shader caches</item>
+        <item>Restore original system settings</item>
+        <item>Restore CPU limits and the first saved system settings</item>
+        <item>Restore original settings?</item>
+        <item>Module switches are kept. A reboot may be needed for framework settings.</item>
+        <item>Restore settings</item>
+        <item>Reduce diagnostic logging</item>
+        <item>Reduce repetitive messages. Warnings and errors stay available.</item>
+        <item>Reduced logging applied</item>
+        <item>Previous logging restored</item>
+        <item>Export diagnostic archive</item>
+        <item>Record frames and logs for 15 seconds</item>
+        <item>Recording: pull QS now</item>
+        <item>Saved to </item>
+        <item>App renderer</item>
+        <item>Skia OpenGL</item>
+        <item>Skia GL</item>
+        <item>Skia Vulkan</item>
+        <item>Change app renderer?</item>
+        <item>Applied for the current boot.</item>
+        <item>Integrations</item>
+        <item>Panel activity</item>
+        <item>Blur results</item>
+        <item>Lightweight blur results</item>
+        <item>Prepared opening fast paths</item>
+        <item>Lighter split-panel updates</item>
+        <item>Unchanged blur deliveries avoided</item>
+        <item>Hardware blur backgrounds</item>
+        <item>Hardware canvas submissions</item>
+        <item>Software fallbacks</item>
+        <item>QS gesture updates</item>
+        <item>Blur errors</item>
+        <item>Current session</item>
+        <item>SystemUI connected</item>
+        <item>Check module status</item>
+        <item>Graphics activity</item>
+        <item>GPU blur: %d submissions</item>
+        <item>Active detail</item>
+        <item>Battery temperature</item>
+        <item>Display policy</item>
+        <item>Framework preference</item>
+        <item>Refresh this report to check the framework scope.</item>
+        <item>App display refresh</item>
+        <item>Prepared backgrounds</item>
+        <item>Opening fast paths</item>
+        <item>Refresh report</item>
+        <item>Read the current module counters</item>
+        <item>Report updated</item>
+        <item>Action failed</item>
+        <item>Couldn\'t apply setting</item>
+        <item>Couldn\'t read settings</item>
+        <item>SystemUI did not confirm this setting.</item>
+        <item>Enable Sunshine Parts, grant root and restart the device.</item>
+        <item>Scope not connected. Check LSPosed and restart.</item>
+        <item>Awaiting display update</item>
+        <item>These modes reduce visual work. They do not change CPU or GPU clocks, thermal protection or refresh rate.</item>
+        <item>Automatic uses Light from startup. It switches to Extra light when battery temperature reaches 39 °C. The battery signal clears at 37 °C. Battery temperature is not a CPU temperature reading.</item>
+        <item>Both effects are on by default. Layout and duplicate-work optimizations remain active in either mode.</item>
+        <item>Wave timing and playback speed remain native. This setting adjusts only the amount of geometry drawn.</item>
+        <item>Optimized</item>
+        <item>Normal</item>
+        <item>Raise CPU floors to at least 50% of the saved ceiling. Uses more power and can increase heat.</item>
+        <item>Changes are checked against actual CPU policy files. This compatibility engine does not require the donor ROM\'s Samsung feature flag.</item>
+        <item>Recently used apps may need to reload. This does not force-stop every installed app.</item>
+        <item>Native display settings: min </item>
+        <item>Native refresh settings are verified when this option is applied.</item>
+        <item>Use only for suspected corrupt caches. Shader recompilation can temporarily increase stutter.</item>
+        <item>This lasts until reboot. Restart affected apps. The original value is saved.</item>
+        <item>Renderer</item>
+        <item>Quick settings </item>
+        <item>Activity counters confirm that a path ran. They are not a measurement of frame rate or speed.</item>
+        <item>This is the app display rate, not a count of rendered frames. Native protection limits still apply.</item>
+        <item>This report covers the current SystemUI session. Counters reset when SystemUI restarts. They do not measure FPS or prove a performance gain.</item>
+        <item>Memory information is not available yet.</item>
+        <item>Android is managing memory. Give it a moment.</item>
+        <item>Memory is low. Eligible cached apps can be released.</item>
+        <item>Use Light UI workload while the device cools.</item>
+        <item>Memory has just been checked.</item>
+        <item>Some cached apps can be cleared if you need more memory.</item>
+        <item>Your system has enough memory for everyday use.</item>
+        <item>There is enough memory headroom. No optimization needed.</item>
+        <item>CPU clock history. Waiting for readings.</item>
+        <item>CPU readings are not available.</item>
+        <item>CPU monitor stopped. Check root access.</item>
+        <item>Couldn\'t read CPU clocks. Check root access.</item>
+        <item>%1$s visual workload</item>
+        <item>%1$s ready</item>
+        <item>%1$s · Android %2$s</item>
+        <item>Enabled with Sunshine Parts</item>
+        <item>Optimizes supported Sunshine interfaces.</item>
+        <item>The compatibility profile applies CPU policy limits when Samsung\'s processing feature is absent. Low power limits CPU ceilings to 80% of the saved baseline. Thermal protections remain active.</item>
+        <item>CPU activity</item>
+        <item>Frequency</item>
+        <item>CPU load</item>
+        <item>CPU load (%)</item>
+        <item>Current limit</item>
+        <item>Waiting for load readings…</item>
+        <item>Frequency: %1$s. CPU load: %2$s. Current limit: %3$s.</item>
+        <item>Each point pairs CPU load with the reported frequency. The highlighted point is the latest reading.</item>
+        <item>CPU monitoring</item>
+        <item>Updates every 200 ms</item>
+        <item>Live · Updates every 200 ms</item>
+        <item>Updates every 200 ms while this page remains open, including in the background. Leave this page to stop monitoring.</item>
+        <item>Couldn\'t start CPU monitoring.</item>
+        <item>Checking module connection…</item>
+        <item>Checking visual profile…</item>
+        <item>Checking memory…</item>
+        <item>Checking diagnostic logging…</item>
+        <item>Module connected</item>
+        <item>Optimization complete</item>
+        <item>Finish</item>
+        <item>Display settings</item>
+        <item>%d submissions</item>
+        <item>%s Hz</item>
+        <item>Check the panel connection</item>
+        <item>The module is ready to use.</item>
+        <item>Some checks could not be completed.</item>
+        <item>Module connected and active\nin the system interface.</item>
+        <item>Profile %1$s applied\nwith lighter visual detail.</item>
+        <item>Memory checked.\nNo cleanup is needed.</item>
+        <item>Repetitive diagnostics\nreduced for this session.</item>
+        <item>Recovery mode</item>
+        <item>Keep native system behavior. Restart the phone after changing this option.</item>
+        <item>System recovery</item>
+        <item>Native interface active. Module effects are paused.</item>
+        <item>Native interface kept\nwith module effects paused.</item>
+        <item>Memory checked.\nAutomatic cleanup is paused.</item>
+        <item>Recovery checks complete</item>
+        <item>Restart to apply the runtime mode.</item>
+        <item>Keep full visual detail and the prepared panel background.</item>
+        <item>Use Light from 35 °C and Extra light from 42 °C.</item>
+        <item>Keep native motion and ROM blur, with fewer repeated QS updates.</item>
+        <item>Reduce panel motion and media detail, with native ROM blur.</item>
+        <item>Automatic uses no visual reduction below 35 °C.</item>
+        <item>Options controlled by the active visual profile are temporarily unavailable.</item>
+        <item>Home screen animations</item>
+        <item>Choose a native launcher preset or follow the visual profile.</item>
+        <item>Off — follow visual profile</item>
+        <item>LowEnd (default)</item>
+        <item>LowEnd normally; LowestEnd in Extra light.</item>
+        <item>This launcher routes Mass to the native HighEnd parameters.</item>
+        <item>Use the original parameters supplied by One UI Home.</item>
+        <item>The manual override is off by default. Launcher workload reductions do not depend on this selection.</item>
+        <item>Native launcher preset saved.</item>
+        <item>Smart RAM management</item>
+        <item>Release unused module buffers under sustained memory pressure. Android manages app eviction.</item>
+        <item>Another action is still running.</item>
+        <item>Updating %1$s…</item>
+        <item>%1$s updated.</item>
+        <item>%1$s enabled.</item>
+        <item>%1$s disabled.</item>
+        <item>Collecting diagnostic information…</item>
+        <item>Backing up shader caches…</item>
+        <item>Releasing eligible cached apps…</item>
+        <item>Restoring saved settings…</item>
+        <item>Restarting the system interface…</item>
+        <item>Starting diagnostic recording…</item>
+        <item>Couldn\'t complete action</item>
+        <item>SystemUI connection verified.</item>
+        <item>Visual settings checked\nfor the selected workload.</item>
+        <item>Experimental integration unavailable in this build.</item>
+        <item>Root access unavailable</item>
+        <item>Unsupported system</item>
+        <item>This build requires Retriever, One UI 8.0 and Android 16.</item>
+        <item>The root shell did not grant access.</item>
+        <item>Root access is available. The SystemUI connection needs attention.</item>
+        <item>The process is running module %1$s; this app is %2$s. Restart the device to load the installed module.</item>
+        <item>Try again</item>
+        <item>Blur alpha scope</item>
+        <item>Static panel background</item>
+        <item>Panel motion</item>
+        <item>Panel view motion</item>
+        <item>Tile height</item>
+        <item>QS Compose motion</item>
+        <item>Blur delivery</item>
+        <item>QS gesture handling</item>
+        <item>Tile graphics layers</item>
+        <item>GPU panel blur</item>
+        <item>Blur opacity updates</item>
+        <item>Blur capture size</item>
+        <item>Blur preview</item>
+        <item>Prepared blur</item>
+        <item>QS opacity updates</item>
+        <item>Frame rate diagnostics</item>
+        <item>Media interpolation cache</item>
+        <item>Direct QS state reads</item>
+        <item>Repeated QS targets</item>
+        <item>QS animation ownership</item>
+        <item>Notification colors</item>
+        <item>Icon dimensions</item>
+        <item>Display density queries</item>
+        <item>Window layout batching</item>
+        <item>Panel state diagnostics</item>
+        <item>Panel touch diagnostics</item>
+        <item>Media waves</item>
+        <item>Split panel motion</item>
+        <item>Scene warnings</item>
+        <item>Blur frame logging</item>
+        <item>Flex layout guard</item>
+        <item>QS update jobs</item>
+        <item>Capture timing</item>
+        <item>Panel layout engine</item>
+        <item>Visual workload selection</item>
+        <item>Memory initialization error</item>
+        <item>Notification movement</item>
+        <item>Home screen diagnostics</item>
+        <item>Frame rate votes</item>
+        <item>Installed</item>
+        <item>Integrated</item>
+        <item>Native path</item>
+        <item>Native fallback</item>
+        <item>Owned by each animation</item>
+        <item>Reused within each update</item>
+        <item>Short native history</item>
+        <item>Wallpaper preview</item>
+        <item>Repeated backgrounds avoided</item>
+        <item>Native touch areas with less logging</item>
+        <item>Native graphics layers</item>
+        <item>Experimental renderer disabled</item>
+        <item>Native opacity with less logging</item>
+        <item>Smaller captures before processing</item>
+        <item>Native capture dimensions</item>
+        <item>Native frame rate votes</item>
+        <item>Direct native state access</item>
+        <item>Native icon dimensions</item>
+        <item>Native density queries</item>
+        <item>Native window layout batching</item>
+        <item>Latest state retained with less logging</item>
+        <item>Touch logging reduced</item>
+        <item>Native motion with fewer repeated updates</item>
+        <item>Updated when the battery temperature changes</item>
+        <item>Module buffers released under memory pressure</item>
+        <item>Native movement with fewer diagnostic allocations</item>
+        <item>Disabled by this profile</item>
+        <item>Installed for this profile</item>
+        <item>Single native blur pass</item>
+        <item>Native blur selected</item>
+        <item>Native animations selected</item>
+        <item>Monitoring memory pressure</item>
+        <item>Temperature-based selection</item>
+        <item>Manual selection</item>
+        <item>Reduced native captures</item>
+        <item>Repeated QS targets avoided</item>
+        <item>Notification stacks avoided</item>
+        <item>Applying %1$s…</item>
+        <item>Processing speed updated.</item>
+        <item>CPU power profile updated.</item>
+        <item>Visual workload updated.</item>
+        <item>Home screen animations updated.</item>
+        <item>Media wave detail updated.</item>
+        <item>Panel animations updated.</item>
+        <item>Panel blur updated.</item>
+        <item>Prepared blur updated.</item>
+        <item>Power saving updated.</item>
+        <item>Adaptive battery updated.</item>
+        <item>Memory management updated.</item>
+        <item>Diagnostic logging updated.</item>
+        <item>Quick settings updated.</item>
+        <item>Tile layout updated.</item>
+        <item>Tile updates configured.</item>
+        <item>Notification colors updated.</item>
+        <item>Module connected and active in the system interface</item>
+        <item>Native interface preserved with module effects paused</item>
+        <item>Visual settings checked for the selected workload</item>
+        <item>Profile %1$s applied with lighter visual detail</item>
+        <item>Memory checked with automatic cleanup paused</item>
+        <item>Memory available without closing background apps</item>
+        <item>Repetitive diagnostic messages reduced for this session</item>
+        <item>Enabling %1$s…</item>
+        <item>Disabling %1$s…</item>
+        <item>Diagnostic logging reduction</item>
+        <item>Prepared opening preview</item>
+        <item>Not prepared</item>
+        <item>Preview uses</item>
+        <item>Frame vote diagnostics avoided</item>
+        <item>Memory monitoring</item>
+        <item>Memory checks</item>
+        <item>Buffer releases</item>
+        <item>Preview error</item>
+        <item>Surface transaction diagnostics</item>
+        <item>System gesture exclusion areas</item>
+        <item>Native frame rate votes with less logging</item>
+        <item>Native surface commits with less logging</item>
+        <item>Unchanged gesture areas reused by Android</item>
+        <item>Waiting for application initialization</item>
+        <item>Native unchanged-rectangle guard already enabled</item>
+        <item>Panel animations enabled.</item>
+        <item>Panel animations disabled.</item>
+        <item>Panel blur enabled.</item>
+        <item>Panel blur disabled.</item>
+        <item>Prepared panel blur enabled.</item>
+        <item>Prepared panel blur disabled.</item>
+        <item>Quick settings updates enabled.</item>
+        <item>Quick settings updates disabled.</item>
+        <item>Tile layout enabled.</item>
+        <item>Tile layout disabled.</item>
+        <item>Tile updates enabled.</item>
+        <item>Tile updates disabled.</item>
+        <item>Panel layout reuse enabled.</item>
+        <item>Panel layout reuse disabled.</item>
+        <item>Keep panel content ready enabled.</item>
+        <item>Keep panel content ready disabled.</item>
+        <item>Prefer 120 Hz enabled.</item>
+        <item>Prefer 120 Hz disabled.</item>
+        <item>Muted light surfaces enabled.</item>
+        <item>Muted light surfaces disabled.</item>
+        <item>Smart RAM management enabled.</item>
+        <item>Smart RAM management disabled.</item>
+        <item>Recovery mode enabled.</item>
+        <item>Recovery mode disabled.</item>
+        <item>Power saving enabled.</item>
+        <item>Power saving disabled.</item>
+        <item>Adaptive battery enabled.</item>
+        <item>Adaptive battery disabled.</item>
+        <item>Diagnostic logging reduction enabled.</item>
+        <item>Diagnostic logging reduction disabled.</item>
+        <item>120 Hz preference</item>
+        <item>Prepared panel content</item>
+        <item>Framework version not recognized</item>
+        <item>These modes reduce visual work.</item>
+        <item>Simple</item>
+        <item>Medium</item>
+        <item>Dynamic animation adjustment is off.</item>
+        <item>Dynamic animation adjustment is on.</item>
+        <item>Panel transitions follow visual workload.</item>
+        <item>Panel animations at 0.8×</item>
+        <item>Panel animations at 0.5×</item>
+        <item>Transition effects</item>
+        <item>Adjust visual effects during app transitions.</item>
+        <item>No shadows</item>
+        <item>No rounded corners</item>
+        <item>Audio state updates</item>
+        <item>Read the SoundAlive state in the background.</item>
+        <item>Ultra light</item>
+        <item>Use a small prepared wallpaper blur and fewer media details. Keep animations at 0.8x.</item>
+        <item>Home screen settings</item>
+        <item>Reduced edge extension</item>
+        <item>Avoid edge extension during app transitions.</item>
+        <item>Panel connection</item>
+        <item>Panel activity and display settings</item>
+        <item>Diagnostic archive exported</item>
+        <item>Restart required</item>
+        <item>Access verified. Restart the device to load the module.</item>
+    </array>
+    <array name="xposed_scope">
+        <item>android</item>
+        <item>com.android.systemui</item>
+        <item>com.sec.android.app.launcher</item>
+    </array>
+</resources>

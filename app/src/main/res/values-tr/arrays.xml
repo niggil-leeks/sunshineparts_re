@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="parts_translation">
+        <item>Performans</item>
+        <item>Bellek</item>
+        <item>Kişiselleştirme</item>
+        <item>Görsel efektler</item>
+        <item>Gelişmiş ayarlar</item>
+        <item>Modül durumu</item>
+        <item>Sunshine Parts hakkında</item>
+        <item>İşlem hızı</item>
+        <item>Arayüz iş yükü</item>
+        <item>CPU sınırları</item>
+        <item>Modül raporu</item>
+        <item>Dil</item>
+        <item>Uygulama dili</item>
+        <item>İngilizce</item>
+        <item>Destek</item>
+        <item>Geri</item>
+        <item>Kapat</item>
+        <item>İptal</item>
+        <item>Devam</item>
+        <item>Tamam</item>
+        <item>Bitti</item>
+        <item>Sürüm</item>
+        <item>Gereksinimler</item>
+        <item>Yükleniyor</item>
+        <item>Değişiklikler uygulanıyor…</item>
+        <item>Ayarlar güncelleniyor…</item>
+        <item>Bildirilmedi</item>
+        <item>Kullanılamıyor</item>
+        <item>Kullanılamıyor</item>
+        <item>Bağlı</item>
+        <item>Yeniden başlatma gerekli</item>
+        <item>Bağlantıyı kontrol et</item>
+        <item>Panel modülünün yanıt verdiğini kontrol edin</item>
+        <item>Panel bağlı</item>
+        <item>Bağlantı</item>
+        <item>Panel</item>
+        <item>Cihaz</item>
+        <item>Ayrıntılar</item>
+        <item>Yazılım</item>
+        <item>Tanılama</item>
+        <item>Entegrasyon ayrıntılarını görüntüle</item>
+        <item>Ek bakım</item>
+        <item>Bağlantıyı ve ROM bilgilerini kontrol edin</item>
+        <item>Panel etkinliğini ve ekran ayarlarını görüntüle</item>
+        <item>Uygulama sürümü ve gereksinimleri</item>
+        <item>Yardım ve proje güncellemeleri</item>
+        <item>Görsel efektler ve gelişmiş ayarlar</item>
+        <item>Harika</item>
+        <item>İyi</item>
+        <item>Ilık</item>
+        <item>Sıcak</item>
+        <item>Kontrol ediliyor</item>
+        <item>Kontrol ediliyor…</item>
+        <item>Bekleniyor</item>
+        <item>Bekleniyor…</item>
+        <item>Veriler bekleniyor…</item>
+        <item>Modülü kontrol et</item>
+        <item>SystemUI bağlantısını kontrol edin.</item>
+        <item>Pil sıcaklığı henüz alınamadı.</item>
+        <item>Telefonunuz serin. Optimizasyon gerekmiyor.</item>
+        <item>Görsel profiliniz az önce kontrol edildi.</item>
+        <item>Telefonunuz iyi çalışıyor. Akıcı kalması için görsel profili kontrol edin.</item>
+        <item>Görsel profil hazır. Telefonun soğumasını bekleyin.</item>
+        <item>Telefonunuz soğurken daha hafif bir görsel profil yardımcı olabilir.</item>
+        <item>Şimdi optimize et</item>
+        <item>Şimdi optimize edilsin mi?</item>
+        <item>Optimize ediliyor</item>
+        <item>Görsel profili kontrol edin ve yalnızca bellek azsa önbellekteki uygulamaları serbest bırakın. Son uygulamalar yeniden yüklenebilir.</item>
+        <item>Modül bağlantısı</item>
+        <item>Görsel profil</item>
+        <item>Tanılama kayıtları</item>
+        <item>Tüm kontroller tamamlandı</item>
+        <item>Önbellekteki uygulamaların temizlenmesi istendi</item>
+        <item>Yeterli bellek kullanılabilir</item>
+        <item>Tekrarlanan mesajlar azaltıldı</item>
+        <item>Mevcut kayıt ayarları korundu</item>
+        <item>Optimizasyon tamamlanamadı</item>
+        <item>Dikkat gerekiyor</item>
+        <item>Kontrol edilmedi</item>
+        <item>Ayarlarınız hazır</item>
+        <item>Kapalı</item>
+        <item>Otomatik</item>
+        <item>Hafif</item>
+        <item>Çok hafif</item>
+        <item>Etkin</item>
+        <item>Devre dışı</item>
+        <item>Sistem varsayılanı</item>
+        <item>Cihaz varsayılanı</item>
+        <item>Uygulandı</item>
+        <item>Kaydedildi</item>
+        <item>Görsel iş yükü</item>
+        <item>Normal görsel ayrıntıları kullanın. Panel düzeltmeleri etkin kalır.</item>
+        <item>Hafif modla başlayın; pil ısındıkça ayrıntıları daha da azaltın.</item>
+        <item>Her arka planı daha hafif bulanıklık ve medya dalgalarıyla bir kez hazırlayın.</item>
+        <item>En hafif bulanıklığı ve daha az dalga noktası kullanın. Arka plan ayrıntıları yumuşar.</item>
+        <item>Kaydedildi. Tüm entegrasyonları uygulamak için yeniden başlatın.</item>
+        <item>Mevcut etkinlik</item>
+        <item>Etkin iş yükü</item>
+        <item>Normal ayrıntılar</item>
+        <item>Otomatik ayarlama</item>
+        <item>Pil sıcaklığı: %.1f °C.</item>
+        <item>Pil sıcaklığı kullanılamıyor.</item>
+        <item>Panel efektleri</item>
+        <item>Panel animasyonları</item>
+        <item>Özgün panel geçişlerini gösterin. Medya dalgaları her iki ayarda da hareket eder.</item>
+        <item>Panel bulanıklığı</item>
+        <item>Hızlı ayarlarda ve bildirimlerde arka plan bulanıklığını gösterin.</item>
+        <item>GPU bulanıklığı</item>
+        <item>Hafif ve Çok hafif modlarında hazırlanan panel arka planları için GPU\'yu kullanın.</item>
+        <item>Medya</item>
+        <item>Medya dalgası ayrıntısı</item>
+        <item>Ayrıntılı</item>
+        <item>Dengeli</item>
+        <item>Diğer ayarlar</item>
+        <item>Ek optimizasyonlar ve bakım</item>
+        <item>İşlem</item>
+        <item>CPU güç profili</item>
+        <item>Standart</item>
+        <item>Düşük güç</item>
+        <item>Yüksek</item>
+        <item>En yüksek</item>
+        <item>Güç yönetimi</item>
+        <item>Güç tasarrufu</item>
+        <item>Android güç hizmetiyle enerji kullanımını sınırlayın.</item>
+        <item>Uyarlanabilir pil</item>
+        <item>Daha az kullandığınız uygulamaların pil tüketimini sınırlayın.</item>
+        <item>Mevcut CPU sınırlarını görüntüle</item>
+        <item>İşlem hızını seçin</item>
+        <item>Dengeli günlük kullanım için kayıtlı minimum CPU frekanslarını geri yükleyin.</item>
+        <item>Daha hızlı tepki için minimum CPU frekansını kayıtlı sınırın en az %35\'ine yükseltin.</item>
+        <item>CPU frekans geçmişi</item>
+        <item>CPU kümesi</item>
+        <item>CPU grubu</item>
+        <item>Verimli</item>
+        <item>Performans</item>
+        <item>Ana çekirdek</item>
+        <item>CPU verilerine bağlanılıyor…</item>
+        <item>Canlı · Saniyede bir ölçüm</item>
+        <item>Düz çizgi bildirilen frekansı, kesikli çizgi izin verilen üst sınırı gösterir. CPU boştayken düşük frekans normaldir.</item>
+        <item>Bu sayfa açıkken saniyede bir güncellenir. Sayfadan çıktığınızda veya uygulama arka plana geçtiğinde izleme durur.</item>
+        <item>Frekans</item>
+        <item>İzin verilen en yüksek değer</item>
+        <item>Şimdi</item>
+        <item>Sınır: </item>
+        <item>%d sn önce</item>
+        <item>%%%1$d kullanılıyor</item>
+        <item>%1$s GB kullanılabilir</item>
+        <item>%1$s GB toplam bellek</item>
+        <item>Önbelleği boşalt</item>
+        <item>Etkin hizmetler Android tarafından yönetilir.</item>
+        <item>Önbellekteki uygulamalar serbest bırakılsın mı?</item>
+        <item>Arka plan kullanım sınırları</item>
+        <item>Önbellek uygulama sınırı</item>
+        <item>Önbellekteki uygulama sınırı</item>
+        <item>Etkin sınır: </item>
+        <item>Önbellek uygulamalarını dondur</item>
+        <item>Kaydedildi. Sistem ilkesini uygulamak için cihazı yeniden başlatın.</item>
+        <item>Önbellekteki uygulamalar çalışan hizmetlerden farklıdır. Düşük sınırlar yeniden yüklemeleri artırabilir.</item>
+        <item>Ek optimizasyonlar</item>
+        <item>Hazır panel bulanıklığı</item>
+        <item>Panel arka planını gerekmeden önce hazırlayın.</item>
+        <item>Hızlı ayar güncellemeleri</item>
+        <item>Tekrarlanan hızlı ayar güncellemelerini birleştirin.</item>
+        <item>Düğme düzeni</item>
+        <item>Tekrarlanan düğme düzeni hesaplarını azaltın.</item>
+        <item>Düğme güncellemeleri</item>
+        <item>Değişmeyen düğmeleri tekrar güncellemeyin.</item>
+        <item>Panel düzenini yeniden kullan</item>
+        <item>Uyumlu hızlı ayar düzeni hesaplarını yeniden kullanın.</item>
+        <item>Panel içeriğini hazır tut</item>
+        <item>Uyumlu hızlı ayar içeriğini hazır tutun.</item>
+        <item>120 Hz tercih et</item>
+        <item>Cihaz desteklediğinde 120 Hz tercih edin. Güç tasarrufu ve termal sınırlar geçerlidir.</item>
+        <item>One UI Ana Ekran hareketleri</item>
+        <item>Desteklenen ana ekran geçiş profilini kullanın.</item>
+        <item>Yumuşak açık renkler</item>
+        <item>Daha yumuşak bildirim renkleri kullanın. Kapattıktan sonra SystemUI\'yi yeniden başlatın.</item>
+        <item>SystemUI\'yi yeniden başlat</item>
+        <item>Sistem arayüzünü yeniden başlatın.</item>
+        <item>SystemUI yeniden başlatılsın mı?</item>
+        <item>Durum çubuğu kısa süre kaybolur. Kilit ekranı görünebilir.</item>
+        <item>Bakım</item>
+        <item>Arayüz gölgelendirici önbelleklerini sıfırla</item>
+        <item>Tanınan gölgelendirici dosyalarını yedeğe taşıyın</item>
+        <item>Gölgelendirici önbellekleri sıfırlansın mı?</item>
+        <item>Arayüz gölgelendirici önbellekleri</item>
+        <item>Özgün sistem ayarlarını geri yükle</item>
+        <item>CPU sınırlarını ve ilk kaydedilen sistem ayarlarını geri yükleyin</item>
+        <item>Özgün ayarlar geri yüklensin mi?</item>
+        <item>Modül seçenekleri korunur. Sistem ayarları için yeniden başlatma gerekebilir.</item>
+        <item>Ayarları geri yükle</item>
+        <item>Tanılama kayıtlarını azalt</item>
+        <item>Tekrarlanan mesajları azaltın. Uyarılar ve hatalar kaydedilmeye devam eder.</item>
+        <item>Azaltılmış kayıtlar uygulandı</item>
+        <item>Önceki kayıt ayarları geri yüklendi</item>
+        <item>Tanılama arşivini dışa aktar</item>
+        <item>Kareleri ve kayıtları 15 saniye kaydedin</item>
+        <item>Kaydediliyor: hızlı ayarları şimdi açın</item>
+        <item>Kaydedildi: </item>
+        <item>Uygulama işleyicisi</item>
+        <item>Skia OpenGL</item>
+        <item>Skia GL</item>
+        <item>Skia Vulkan</item>
+        <item>Uygulama işleyicisi değiştirilsin mi?</item>
+        <item>Sonraki yeniden başlatmaya kadar uygulandı.</item>
+        <item>Entegrasyonlar</item>
+        <item>Panel etkinliği</item>
+        <item>Bulanıklık sonuçları</item>
+        <item>Hafif bulanıklık sonuçları</item>
+        <item>Hazır açılış hızlı yolları</item>
+        <item>Hafif bölünmüş panel güncellemeleri</item>
+        <item>Önlenen tekrarlanan bulanıklık iletimleri</item>
+        <item>GPU ile bulanıklaştırılan arka planlar</item>
+        <item>GPU tuvaline gönderimler</item>
+        <item>Yazılım yedek yolları</item>
+        <item>Hızlı ayar hareket güncellemeleri</item>
+        <item>Bulanıklık hataları</item>
+        <item>Geçerli oturum</item>
+        <item>SystemUI bağlı</item>
+        <item>Modül durumunu kontrol edin</item>
+        <item>Grafik etkinliği</item>
+        <item>GPU bulanıklığı: %d gönderim</item>
+        <item>Etkin ayrıntı</item>
+        <item>Pil sıcaklığı</item>
+        <item>Ekran ilkesi</item>
+        <item>Sistem tercihi</item>
+        <item>Sistem entegrasyonunu kontrol etmek için bu raporu yenileyin.</item>
+        <item>Uygulama ekran yenileme hızı</item>
+        <item>Hazırlanan arka planlar</item>
+        <item>Açılış hızlı yolları</item>
+        <item>Raporu yenile</item>
+        <item>Geçerli modül sayaçlarını okuyun</item>
+        <item>Rapor güncellendi</item>
+        <item>İşlem başarısız</item>
+        <item>Ayar uygulanamadı</item>
+        <item>Ayarlar okunamadı</item>
+        <item>SystemUI bu ayarı doğrulamadı.</item>
+        <item>Sunshine Parts\'ı etkinleştirin, root izni verin ve cihazı yeniden başlatın.</item>
+        <item>Entegrasyon bağlı değil. LSPosed\'i kontrol edip yeniden başlatın.</item>
+        <item>Ekran güncellemesi bekleniyor</item>
+        <item>Bu modlar görsel yükü azaltır. Frekansları, termal korumayı veya yenileme hızını değiştirmez.</item>
+        <item>Otomatik mod Hafif ile başlar, pil 39 °C\'ye ulaşınca Çok hafif moda geçer ve 37 °C\'de geri döner. Bu değer CPU değil, pil sıcaklığıdır.</item>
+        <item>Her iki efekt varsayılan olarak açıktır. Düzen ve tekrarlanan iş optimizasyonları her iki ayarda da etkin kalır.</item>
+        <item>Dalga zamanlaması ve oynatma hızı değişmez. Bu ayar yalnızca çizilen geometri miktarını değiştirir.</item>
+        <item>Optimize edilmiş</item>
+        <item>Normal</item>
+        <item>Minimum CPU frekansını kayıtlı sınırın en az %50\'sine yükseltin. Daha fazla güç tüketir ve ısıyı artırabilir.</item>
+        <item>Değişiklikler gerçek CPU ilke dosyalarında doğrulanır. Bu özellik kaynak ROM\'daki Samsung seçeneğine ihtiyaç duymaz.</item>
+        <item>Son uygulamalar yeniden yüklenebilir. Bu işlem tüm yüklü uygulamaları zorla durdurmaz.</item>
+        <item>Ekran ayarları: en düşük </item>
+        <item>Bu seçenek uygulanırken ekran yenileme ayarları doğrulanır.</item>
+        <item>Yalnızca bozuk önbellekten şüpheleniyorsanız kullanın. Gölgelendiricilerin yeniden derlenmesi geçici takılmalara yol açabilir.</item>
+        <item>Sonraki yeniden başlatmaya kadar geçerlidir. Etkilenen uygulamaları yeniden başlatın. Özgün değer kaydedilir.</item>
+        <item>İşleyici</item>
+        <item>Hızlı ayarlar </item>
+        <item>Sayaçlar bir yolun çalıştığını doğrular. Kare hızını veya performansı ölçmez.</item>
+        <item>Bu, uygulamaya bildirilen ekran hızıdır; çizilen kare sayısı değildir. Koruma sınırları geçerlidir.</item>
+        <item>Bu rapor mevcut SystemUI oturumunu kapsar. SystemUI yeniden başlayınca sayaçlar sıfırlanır. FPS ölçmez veya performans artışını kanıtlamaz.</item>
+        <item>Bellek bilgileri henüz alınamadı.</item>
+        <item>Android belleği yönetiyor. Biraz bekleyin.</item>
+        <item>Bellek az. Uygun önbellek uygulamaları serbest bırakılabilir.</item>
+        <item>Cihaz soğurken Hafif arayüz modunu kullanın.</item>
+        <item>Bellek az önce kontrol edildi.</item>
+        <item>Daha fazla bellek gerekirse bazı önbellek uygulamaları temizlenebilir.</item>
+        <item>Sisteminizde günlük kullanım için yeterli bellek var.</item>
+        <item>Yeterli boş bellek var. Optimizasyon gerekmiyor.</item>
+        <item>CPU frekans geçmişi. Veriler bekleniyor.</item>
+        <item>CPU verileri alınamıyor.</item>
+        <item>CPU izleme durdu. Root erişimini kontrol edin.</item>
+        <item>CPU frekansları okunamadı. Root erişimini kontrol edin.</item>
+        <item>%1$s görsel iş yükü</item>
+        <item>%1$s hazır</item>
+        <item>%1$s · Android %2$s</item>
+        <item>Sunshine Parts ile etkin</item>
+        <item>Desteklenen Sunshine arayüzlerini optimize eder.</item>
+        <item>Samsung\'un işlem özelliği kullanılamadığında bu profil CPU sınırlarını ayarlar. Düşük güç modu, kaydedilen üst sınırın en fazla %80\'ini kullanır. Isıl korumalar etkin kalır.</item>
+        <item>CPU etkinliği</item>
+        <item>Frekans</item>
+        <item>CPU yükü</item>
+        <item>CPU yükü (%)</item>
+        <item>Geçerli sınır</item>
+        <item>Yük ölçümü bekleniyor…</item>
+        <item>Frekans: %1$s. CPU yükü: %2$s. Geçerli sınır: %3$s.</item>
+        <item>Her nokta CPU yükünü bildirilen frekansla eşleştirir. Vurgulanan nokta en son ölçümdür.</item>
+        <item>CPU izleme</item>
+        <item>200 ms aralıklarla güncellenir</item>
+        <item>Canlı · 200 ms aralıklarla güncellenir</item>
+        <item>Bu sayfa açık kaldığı sürece arka planda da 200 ms aralıklarla güncellenir. İzlemeyi durdurmak için bu sayfadan çıkın.</item>
+        <item>CPU izleme başlatılamadı.</item>
+        <item>Modül bağlantısı kontrol ediliyor…</item>
+        <item>Görsel profil kontrol ediliyor…</item>
+        <item>Bellek kontrol ediliyor…</item>
+        <item>Tanılama günlükleri kontrol ediliyor…</item>
+        <item>Modül bağlı</item>
+        <item>Optimizasyon tamamlandı</item>
+        <item>Bitir</item>
+        <item>Ekran ayarları</item>
+        <item>%d gönderim</item>
+        <item>%s Hz</item>
+        <item>Panel bağlantısını kontrol edin</item>
+        <item>Modül kullanıma hazır.</item>
+        <item>Bazı kontroller tamamlanamadı.</item>
+        <item>Modül bağlı ve etkin\nsistem arayüzünde.</item>
+        <item>%1$s profili uygulandı\ndaha hafif görsel ayrıntıyla.</item>
+        <item>Bellek kontrol edildi.\nTemizleme gerekmiyor.</item>
+        <item>Tekrarlayan tanılama\nbu oturumda azaltıldı.</item>
+        <item>Kurtarma modu</item>
+        <item>Sistemin yerel davranışını kullanır. Bu seçeneği değiştirdikten sonra telefonu yeniden başlatın.</item>
+        <item>Sistem kurtarma</item>
+        <item>Yerel arayüz etkin. Modül efektleri duraklatıldı.</item>
+        <item>Yerel arayüz korundu\nmodül efektleri duraklatıldı.</item>
+        <item>Bellek kontrol edildi.\nOtomatik temizleme duraklatıldı.</item>
+        <item>Kontroller tamamlandı</item>
+        <item>Çalışma modunu uygulamak için yeniden başlatın.</item>
+        <item>Tüm görsel ayrıntıları ve hazırlanmış panel arka planını korur.</item>
+        <item>35 °C üzerinde Hafif, 42 °C üzerinde Ekstra hafif kullanır.</item>
+        <item>Yerel hareketi ve bulanıklığı korur; yinelenen QS güncellemelerini azaltır.</item>
+        <item>Yerel bulanıklıkla panel hareketini ve medya ayrıntısını azaltır.</item>
+        <item>Otomatik mod 35 °C altında görselleri azaltmaz.</item>
+        <item>Etkin profilin yönettiği seçenekler geçici olarak kullanılamaz.</item>
+        <item>Ana ekran animasyonları</item>
+        <item>Yerel bir profil seçin veya görsel modu izleyin.</item>
+        <item>Kapalı — görsel modu izle</item>
+        <item>LowEnd (varsayılan)</item>
+        <item>Normalde LowEnd; Ekstra hafif modda LowestEnd.</item>
+        <item>Bu sürüm Mass için HighEnd parametrelerini kullanır.</item>
+        <item>One UI Home tarafından sunulan özgün parametreleri kullanır.</item>
+        <item>Manuel seçim varsayılan olarak kapalıdır. İş yükü iyileştirmeleri bu seçimden bağımsızdır.</item>
+        <item>Yerel profil kaydedildi.</item>
+        <item>Akıllı yönetim</item>
+        <item>Sürekli bellek baskısında kullanılmayan modül tamponlarını bırakır. Uygulamaları Android yönetir.</item>
+        <item>Başka bir işlem devam ediyor.</item>
+        <item>%1$s güncelleniyor…</item>
+        <item>%1$s güncellendi.</item>
+        <item>%1$s etkinleştirildi.</item>
+        <item>%1$s devre dışı bırakıldı.</item>
+        <item>Tanılama bilgileri toplanıyor…</item>
+        <item>Gölgelendirici önbellekleri yedekleniyor…</item>
+        <item>Uygun önbellek uygulamaları bırakılıyor…</item>
+        <item>Kayıtlı ayarlar geri yükleniyor…</item>
+        <item>Sistem arayüzü yeniden başlatılıyor…</item>
+        <item>Tanılama kaydı başlatılıyor…</item>
+        <item>İşlem tamamlanamadı</item>
+        <item>SystemUI bağlantısı doğrulandı.</item>
+        <item>Görseller kontrol edildi\nseçilen mod için.</item>
+        <item>Bu sürümde deneysel entegrasyon kullanılamıyor.</item>
+        <item>Root erişimi kullanılamıyor</item>
+        <item>Desteklenmeyen sistem</item>
+        <item>Bu sürüm Retriever, One UI 8.0 ve Android 16 gerektirir.</item>
+        <item>Root kabuğu erişim vermedi.</item>
+        <item>Root erişimi var. SystemUI bağlantısı kontrol edilmeli.</item>
+        <item>İşlem %1$s modülünü çalıştırıyor; uygulama %2$s sürümünde. Yüklü modülü yüklemek için cihazı yeniden başlatın.</item>
+        <item>Tekrar dene</item>
+        <item>Bulanıklık opaklığı</item>
+        <item>Statik panel arka planı</item>
+        <item>Panel hareketi</item>
+        <item>Panel geçişleri</item>
+        <item>Düğme yüksekliği</item>
+        <item>Compose QS animasyonları</item>
+        <item>Bulanıklık aktarımı</item>
+        <item>QS hareketleri</item>
+        <item>Düğme grafik katmanları</item>
+        <item>GPU panel bulanıklığı</item>
+        <item>Bulanıklık opaklığı güncellemesi</item>
+        <item>Bulanıklık yakalama boyutu</item>
+        <item>Bulanıklık önizlemesi</item>
+        <item>Hazır bulanıklık</item>
+        <item>QS opaklığı güncellemesi</item>
+        <item>Kare hızı tanılaması</item>
+        <item>Önbellekteki medya eğrileri</item>
+        <item>Doğrudan QS durum okumaları</item>
+        <item>Yinelenen QS hedefleri</item>
+        <item>QS animasyon bağlantısı</item>
+        <item>Bildirim renkleri</item>
+        <item>Simge boyutları</item>
+        <item>Ekran yoğunluğu sorguları</item>
+        <item>Pencere düzeni gruplaması</item>
+        <item>Panel durumu tanılaması</item>
+        <item>Panel dokunma tanılaması</item>
+        <item>Medya dalgaları</item>
+        <item>Paneller arası hareket</item>
+        <item>Sahne uyarıları</item>
+        <item>Bulanıklık kare kaydı</item>
+        <item>Flex düzen koruması</item>
+        <item>QS güncelleme görevleri</item>
+        <item>Yakalama süresi ölçümü</item>
+        <item>Panel düzeni</item>
+        <item>Görsel yük seçimi</item>
+        <item>RAM yönetimi başlatma hatası</item>
+        <item>Bildirim hareketi</item>
+        <item>Ana ekran tanılaması</item>
+        <item>Kare hızı istekleri</item>
+        <item>Yüklü</item>
+        <item>Entegre</item>
+        <item>Yerel davranış</item>
+        <item>Yerel yedek</item>
+        <item>Her animasyona bağlı</item>
+        <item>Aynı güncellemede yeniden kullanılır</item>
+        <item>Kısaltılmış yerel geçmiş</item>
+        <item>Duvar kağıdı önizlemesi</item>
+        <item>Yinelenen arka planlar önlendi</item>
+        <item>Daha az kayıtla yerel dokunma alanları</item>
+        <item>Yerel grafik katmanları</item>
+        <item>Deneysel oluşturucu kapalı</item>
+        <item>Daha az kayıtla yerel opaklık</item>
+        <item>İşlemeden önce daha küçük yakalamalar</item>
+        <item>Yerel yakalama boyutları</item>
+        <item>Yerel kare hızı istekleri</item>
+        <item>Doğrudan yerel durum erişimi</item>
+        <item>Yerel simge boyutları</item>
+        <item>Yerel yoğunluk sorguları</item>
+        <item>Yerel pencere düzeni gruplaması</item>
+        <item>Son durum daha az kayıtla korunur</item>
+        <item>Dokunma kayıtları azaltıldı</item>
+        <item>Daha az yinelenen güncellemeyle yerel hareket</item>
+        <item>Pil sıcaklığı değiştiğinde güncellenir</item>
+        <item>Bellek baskısında modül tamponları boşaltılır</item>
+        <item>Daha az tanılama ayırmasıyla yerel hareket</item>
+        <item>Bu profilde kapalı</item>
+        <item>Bu profil için yüklü</item>
+        <item>Tek yerel bulanıklık işlemi</item>
+        <item>Yerel bulanıklık seçili</item>
+        <item>Yerel animasyonlar seçili</item>
+        <item>Bellek kullanılabilirliği izleniyor</item>
+        <item>Pil sıcaklığına göre seçim</item>
+        <item>Elle seçim</item>
+        <item>Küçültülmüş yerel yakalamalar</item>
+        <item>Yinelenen QS hedefleri önlendi</item>
+        <item>Hareketlerde tanılama yığınları önlendi</item>
+        <item>%1$s uygulanıyor…</item>
+        <item>İşlem hızı güncellendi.</item>
+        <item>CPU güç profili güncellendi.</item>
+        <item>Görsel yük güncellendi.</item>
+        <item>Ana ekran animasyonları güncellendi.</item>
+        <item>Medya dalgası ayrıntıları güncellendi.</item>
+        <item>Panel animasyonları güncellendi.</item>
+        <item>Panel bulanıklığı güncellendi.</item>
+        <item>Hazır bulanıklık güncellendi.</item>
+        <item>Güç tasarrufu güncellendi.</item>
+        <item>Uyarlanabilir pil güncellendi.</item>
+        <item>Bellek yönetimi güncellendi.</item>
+        <item>Tanılama kaydı güncellendi.</item>
+        <item>Hızlı ayarlar güncellendi.</item>
+        <item>Düğme düzeni güncellendi.</item>
+        <item>Düğme güncellemeleri ayarlandı.</item>
+        <item>Bildirim renkleri güncellendi.</item>
+        <item>Modül sistem arayüzüne bağlı ve etkin</item>
+        <item>Modül efektleri duraklatılarak yerel arayüz korundu</item>
+        <item>Seçilen yük için görsel ayarlar denetlendi</item>
+        <item>%1$s profili daha az görsel ayrıntıyla uygulandı</item>
+        <item>Otomatik temizleme duraklatılarak bellek denetlendi</item>
+        <item>Arka plan uygulamaları kapatılmadan bellek kullanılabilir</item>
+        <item>Bu oturumda yinelenen tanılama iletileri azaltıldı</item>
+        <item>%1$s etkinleştiriliyor…</item>
+        <item>%1$s devre dışı bırakılıyor…</item>
+        <item>Tanılama kayıtlarını azaltma</item>
+        <item>Açılış için hazır önizleme</item>
+        <item>Henüz hazırlanmadı</item>
+        <item>Hazır önizleme kullanımları</item>
+        <item>Önlenen kare hızı tanılamaları</item>
+        <item>Bellek izleme</item>
+        <item>Bellek denetimleri</item>
+        <item>Tampon bakımları</item>
+        <item>Önizleme hatası</item>
+        <item>Grafik işlemi tanılaması</item>
+        <item>Sistem hareketlerine ayrılan alanlar</item>
+        <item>Daha az kayıtla yerel kare hızı</item>
+        <item>Daha az kayıtla yerel grafik işlemleri</item>
+        <item>Aynı hareket alanları Android tarafından yeniden kullanılır</item>
+        <item>Uygulamanın başlatılması bekleniyor</item>
+        <item>Yerel hareket alanı yeniden kullanımı zaten etkin</item>
+        <item>Panel animasyonları etkinleştirildi.</item>
+        <item>Panel animasyonları devre dışı bırakıldı.</item>
+        <item>Panel bulanıklığı etkinleştirildi.</item>
+        <item>Panel bulanıklığı devre dışı bırakıldı.</item>
+        <item>Hazır bulanıklık etkinleştirildi.</item>
+        <item>Hazır bulanıklık devre dışı bırakıldı.</item>
+        <item>Hızlı ayar güncellemeleri etkinleştirildi.</item>
+        <item>Hızlı ayar güncellemeleri devre dışı bırakıldı.</item>
+        <item>Düğme düzeni etkinleştirildi.</item>
+        <item>Düğme düzeni devre dışı bırakıldı.</item>
+        <item>Düğme güncellemeleri etkinleştirildi.</item>
+        <item>Düğme güncellemeleri devre dışı bırakıldı.</item>
+        <item>Panel düzeni yeniden kullanımı etkinleştirildi.</item>
+        <item>Panel düzeni yeniden kullanımı devre dışı bırakıldı.</item>
+        <item>Hazır panel içeriği etkinleştirildi.</item>
+        <item>Hazır panel içeriği devre dışı bırakıldı.</item>
+        <item>120 Hz tercihi etkinleştirildi.</item>
+        <item>120 Hz tercihi devre dışı bırakıldı.</item>
+        <item>Yumuşak bildirim renkleri etkinleştirildi.</item>
+        <item>Yumuşak bildirim renkleri devre dışı bırakıldı.</item>
+        <item>Akıllı RAM yönetimi etkinleştirildi.</item>
+        <item>Akıllı RAM yönetimi devre dışı bırakıldı.</item>
+        <item>Kurtarma modu etkinleştirildi.</item>
+        <item>Kurtarma modu devre dışı bırakıldı.</item>
+        <item>Güç tasarrufu etkinleştirildi.</item>
+        <item>Güç tasarrufu devre dışı bırakıldı.</item>
+        <item>Uyarlanabilir pil etkinleştirildi.</item>
+        <item>Uyarlanabilir pil devre dışı bırakıldı.</item>
+        <item>Tanılama kayıtlarını azaltma etkinleştirildi.</item>
+        <item>Tanılama kayıtlarını azaltma devre dışı bırakıldı.</item>
+        <item>120 Hz tercihi</item>
+        <item>Hazır panel içeriği</item>
+        <item>Framework sürümü tanınmadı</item>
+        <item>Bu modlar görsel iş yükünü azaltır.</item>
+        <item>Basit</item>
+        <item>Orta</item>
+        <item>Dinamik animasyon ayarı kapalı.</item>
+        <item>Dinamik animasyon ayarı açık.</item>
+        <item>Panel geçişleri görsel iş yükünü izler.</item>
+        <item>Panel animasyonları 0,8×</item>
+        <item>Panel animasyonları 0,5×</item>
+        <item>Geçiş efektleri</item>
+        <item>Uygulama geçişlerindeki görsel efektleri ayarlayın.</item>
+        <item>Gölge yok</item>
+        <item>Yuvarlatılmış köşe yok</item>
+        <item>Ses durumu güncellemeleri</item>
+        <item>SoundAlive durumunu arka planda okuyun.</item>
+        <item>Ultra hafif</item>
+        <item>Küçük bir duvar kağıdı bulanıklığı ve daha az medya ayrıntısı kullanın. Animasyonları 0,8x hızında tutun.</item>
+        <item>Ana ekran ayarları</item>
+        <item>Azaltılmış kenar uzantısı</item>
+        <item>Uygulama geçişlerinde kenar uzantısını önleyin.</item>
+        <item>Panel bağlantısını kontrol edin</item>
+        <item>Panel etkinliği ve ekran ayarları</item>
+        <item>Tanılama arşivi dışa aktarıldı</item>
+        <item>Yeniden başlatma gerekli</item>
+        <item>Erişim doğrulandı. Modülü yüklemek için cihazı yeniden başlatın.</item>
+    </array>
+</resources>

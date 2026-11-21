@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="parts_source" id="0x7f010000" />
+    <public type="array" name="parts_translation" id="0x7f010001" />
+    <public type="array" name="xposed_scope" id="0x7f010002" />
+    <public type="bool" name="parts_light" id="0x7f020000" />
+    <public type="color" name="parts_accent" id="0x7f030000" />
+    <public type="color" name="parts_background" id="0x7f030001" />
+    <public type="color" name="parts_divider" id="0x7f030002" />
+    <public type="color" name="parts_secondary" id="0x7f030003" />
+    <public type="color" name="parts_surface" id="0x7f030004" />
+    <public type="color" name="parts_text" id="0x7f030005" />
+    <public type="drawable" name="ic_arrow_back" id="0x7f040000" />
+    <public type="drawable" name="ic_cpu_monitor" id="0x7f040001" />
+    <public type="drawable" name="icon_art" id="0x7f040002" />
+    <public type="drawable" name="icon_bitmap" id="0x7f040003" />
+    <public type="drawable" name="splash_blank" id="0x7f040004" />
+    <public type="mipmap" name="ic_launcher" id="0x7f050000" />
+    <public type="string" name="app_name" id="0x7f060000" />
+    <public type="string" name="module_description" id="0x7f060001" />
+    <public type="style" name="AppTheme" id="0x7f070000" />
+    <public type="xml" name="locales_config" id="0x7f080000" />
+</resources>

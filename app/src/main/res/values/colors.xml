@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parts_accent">@android:color/system_accent1_600</color>
+    <color name="parts_background">#f6f6f6</color>
+    <color name="parts_divider">#e8e8e8</color>
+    <color name="parts_secondary">#757575</color>
+    <color name="parts_surface">#ffffff</color>
+    <color name="parts_text">#010101</color>
+</resources>
